@@ -1,0 +1,158 @@
+<div class="main">
+	<ul>
+
+
+<li id="space">
+<p>First of its kind - a carbon nanotube interior micro-CT, for imaging beating mouse heart with up to 85% radiation dose reduction!</p>
+<div class="center" style="width:640px;">
+<iframe src="https://player.vimeo.com/video/208149071" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p><a href="https://vimeo.com/208149071">Micro CT / Carbon Nanotube X-ray source</a> from <a href="https://vimeo.com/beamvt">BEAM VT</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+</div>
+</li>
+
+
+<li id="space">
+<p>Dr. Cao gave a presentation to Freedom from Cancer Startup Challenge. (12/2017)</p>
+<div class="center" style="width:640px;">
+<video src="https://livecentralus3encrypted.blob.core.windows.net/recordingdata/KtbZtJ76ckaTGYYySAaUFA/Virginia Tech Technology 25069 - Disruptive Computed Tomography (CT) with Ultrafast 3D Scanning - Virginia Tech University.webm" type="video/webm" controls width="640" height="360"></video>
+</div>
+
+</li>
+
+<li id="space">
+Paper published: S. Zhang, D. Zhang, H. Gong, O. Ghasemalizadeh, G. Wang, and G. Cao, "Fast and Accurate Computation of System Matrix for Area Integral Model Based Algebraic Reconstruction Technique", Opt. Eng., 53(11), 113101 (10/2014)
+</li>
+
+
+<li id="space">
+Dr. Cao gave an invited talk at UT Arlington (10/2014)
+</li>
+
+<li id="space">
+Sophomore student Gina Muan from BSE joined our group as a volunteer researcher (09/2014)
+</li>
+
+<li id="space">
+Ms. Olga Pen and Mr. Xu Dong joined the X-ray Systems Lab as graduate students.  Welcome! (08/2014)
+</li>
+
+<li id="space">
+Mr. Hao Gong successfully passed the SBES PhD Qualifying Examination.  Congratulation! (07/2014)
+</li>
+
+<li id="space">
+Paper published: Sharma, Kriti Sen; Gong, Hao; Ghasemalizadeh, Omid; Yu, Hengyong; Wang, Ge; Cao, Guohua; "Interior micro-CT with an offset detector", Medical physics 41(6), 61915 (06/2014)
+</li>
+
+<li id="space">
+Dr. Cao is named the Scholar of the Week. <a href="http://www.research.vt.edu/scholar-of-the-week/guohua-cao">Link to the news</a> (04/2014)
+</li>
+
+<li id="space">
+James Bennett successfully defended his PhD thesis and will begin his postdoc position at Yale.  Congratulation!! (02/2014)
+</li>
+
+<li id="space">
+Freshmen student Sarah Chaikind from BSE joined our group as a volunteer researcher (02/2014)
+</li>
+
+<li id="space">
+We congratulate our three undergraduate students - Suphassorn(Mai) Eaksen, Nicholas Zempolich, and Dylan Hesse - for successfully performing research in our group and obtaining credits for their BME Minor degree. (12/2013)
+</li>
+
+<li id="space">
+Paper published: Gong, Hao; Miao, Chuang; Yu, Hengyong; Wang, Ge; Cao, Guohua; "Real phantom datasets for the evaluation of reconstruction algorithms at various dose conditions",	2014 IEEE 11th International Symposium on Biomedical Imaging (ISBI)	65-68 (04/2014)
+</li>
+
+<li id="space">
+Paper published: Opie, Alex MT; Bennett, James R; Walsh, Michael; Rajendran, Kishore; Yu, Hengyong; Xu, Qiong; Butler, Anthony; Butler, Philip; Cao, Guohua; Mohs, Aaron M; "Study of scan protocol for exposure reduction in hybrid spectral micro-CT", Scanning, 36(4) (03/2014)
+</li>
+
+<li id="space">
+Paper published: Bennett, James; Opie, A; Xu, Qiong; Yu, Hengyong; Walsh, Michael; Butler, Anthony; Butler, Phillip; Cao, Guohua; Mohs, Aaron; Wang, Ge; "Hybrid spectral micro-CT: system design, implementation & preliminary results", IEEE Transactions on Biomedical Engineering, 61(2) (02/2014)
+</li>
+
+<li id="space">
+Dr. Cao won the prestigious NSF CAREER Award! <a href="http://www.eng.vt.edu/news/biomedical-engineer-guohua-cao-secures-prestigious-nsf-career-award-pursue-sophisticated-imagin"> Link to the news</a>  (12/2013)
+</li>
+
+<li id="space">
+We congratulate our three undergraduate students - Amy Wang,  Scott Saverot, and Brian Choe - for successfully performing research in our group and obtaining credits for their BME Minor degree. (12/2013)
+</li>
+
+<li id="space">
+Mr. Hao Gong gave a poster presentation entitled "Cardiac CT Architecture with Lower Radiation Dose and Higher Temporal Resolution" at the 2013 BMES Annual Conference in Seattle. (10/2013)
+</li>
+
+<li id="space">
+Two undergraduate students, Tyler Blevins and Max DaVee, joined our group as volunteer researchers. (08/2013)
+</li>
+
+<li id="space">
+Drs. Cao and Robertson received a ICTAS grant to develop technology for cardiovascular imaging. (07/2013)
+</li>
+
+
+<li id="space">
+Kriti Sen Sharma successfully defended his PhD thesis and will work as a Senior Engineer at GE Healthcare.  Congratulation!! (05/2013)
+</li>
+
+
+<li id="space">
+Dr. Cao received a grant from Carilion Hospital (05/2013)
+</li>
+
+
+<li id="space">
+Paper published: Wang, Ge; Liu, Feng; Liu, Fenglin; Cao, Guohua; Gao, Hao; Vannier, Michael W; "Marriage of CT and MRI for vulnerable plaque characterization", Imaging in Medicine, 5(2) 95-97 (04/2013).
+</li>
+
+<li id="space">
+Paper published: Cong, Wenxiang; Shen, Haiou; Cao, Guohua; Liu, Hong; Wang, Ge; "X-ray fluorescence tomographic system design and image reconstruction", Journal of X-ray science and technology 21(1). (01/2013)
+</li>
+
+<li id="space">
+Mr. Hao Gong joined the X-ray Systems Lab as a graduate student, and was named a Pratt Scholar in the SBES - a very prestigious award for the most outstanding students.  Welcome and congratulation!! (08/2012)
+</li>
+
+<li id="space">
+Dr. Cao presented an invited paper at the SPIE Optics+Photonics 2012 Conference - Developments in X-Ray Tomography VIII. (08/2012)
+</li>
+
+<li id="space">
+Mr. Omid Ghasemalizadeh passed the Mechanical Engineering PhD Qualifying Examination.  Congratulation! (04/2012)
+</li>
+
+<li id="space">
+Dr. Cao received an Assistant Professor Mentoring Grant from the Provost's office. (04/2012)
+</li>
+
+<li id="space">
+The construction for two x-ray rooms at ICTAS 130 has been completed. (02/2012)
+
+<div class="center" style="width:500px;">
+	<img  src="MM/CT_Lab_Cao.jpg" alt="X-ray Facility" width="500" title="X-ray Facility" />
+
+	<div class="desc">
+		Two x-ray rooms have been constructed in the X-ray Systems Lab.
+	</div>
+</div>
+
+</li>
+
+<li id="space">
+Mr. Omid Ghasemalizadeh joined the X-ray Systems Lab as a graduate student.  Welcome! (01/2012)
+</li>
+
+<li id="space">
+Dr. Cao received a collaboration grant from the UNC's NCI-funded CCNE center. (01/2012)
+</li>
+
+<li id="space">
+Dr. Guohua Cao established the X-ray Systems Lab in School of Biomedical Engineering and Sciences at Virginia Tech - Wake Forest University. (08/2011)
+</li>
+		
+
+	</ul>
+
+</div><!--end bracket for "main"-->

@@ -1,0 +1,24 @@
+      <div class="main">
+<h2>To Apply</h2>
+      <p>We always look for passionate and dedicated researchers to join our lab.  Interested candidates should send a Curriculum Vitae including a list of publications, and a one-page statement of research interests and career plan to Dr. Guohua Cao (<a href="mailto:ghcao@vt.edu">ghcao @ vt.edu</a>, email preferred), School of Biomedical Engineering and Sciences, Virginia Tech - Wake Forest University, Blacksburg, VA 24061.
+	</p>
+
+      <h2>Open Positions</h2>
+
+	<h3>Postdoc Position in New CT Systems (2017-2018)</h3>
+	<p>The position will focus on the acquisition, reconstruction, and validation aspects of a novel kind of CT system. The initial duration is one year, with option for renewal pending availability of funding.</p>
+  
+      	<h3>GRA Positions in Deep Imaging: Neural Network based Deep Learning in CT Image Formation </h3>
+          
+      	<p>CT is the leading medical imaging modality in healthcare.  Annually, over 70 million CT scans are performed in the U.S.  Despite its widespread use, CT still lacks sufficient temporal resolution for some challenging imaging tasks, such as cardiac CT on patients with high heart rates or irregular heart rates.  Furthermore, the cancer risk from the radiation doses associated with CT scans is a public concern. </p>
+<p>
+This project focuses on developing advanced CT scanner for diagnostic medical imaging, particular for the dynamic imaging of objects undergoing fast motions, such as hearts and lungs.  Research activities include the design and validation of an x-ray imaging system enabled by novel x-ray sources, detectors, and advanced algorithms.  The position offers the unique opportunity to design a novel CT system from the ground up.  Candidates with background in electrical engineering, physics/applied physics, biomedical imaging, or another related field are encouraged to apply. Applicants should demonstrate the ability and drive to learn new areas needed to be successful in this position.</p>
+      
+      	<p>The Virginia Tech College of Engineering is consistently ranked among the nation's top engineering schools.  The Wake Forest University School of Medicine is ranked among the best medical schools in the United States.  Blacksburg is ranked among the country's best places to live.  It is a scenic and vibrant community nestled in the New River Valley between the Alleghany and Blue Ridge Mountains.  The town is near national forests, state parks, and other regional attractions of Southwest Virginia, renowned for their history and natural beauty.</p>
+
+	<h3>Undergraduate Researcher Positions in Biomedical X-ray Imaging</h3>
+<p>We are looking for talented undergraduate students to join our lab.  The positions will give aspiring students (1) hands-on experience on running the state of the art nano-CT and micro-CT scanners, (2) exposure to advanced imaging research in an interdisciplinary group, and (3) collaborating/networking opportunities with diverse research groups ranging from different academic departments to various industry partners.  The positions have potential for summer salary support.</p>
+     
+      	<p>Screening of applicants will begin immediately and continue until the position is filled. </p>
+      
+      </div><!--end bracket for "main"-->

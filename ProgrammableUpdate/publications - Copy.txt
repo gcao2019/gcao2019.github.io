@@ -1,0 +1,74 @@
+<div class="main">
+
+	<h1> List of Publications </h1>
+<!--	<h2> In Preparation </h2>
+	<ul style="list-style-type:none">
+	
+	<li id="space">
+	<span class="myname">Guohua Cao</span>, et al, "High flux carbon nanotube based micro-focus x-ray tube for dynamic micro-CT", manuscript in preparation.
+	</li>
+
+</ul>  -->
+
+<!--	<h2> Submitted </h2>
+	<ul style="list-style-type:none">
+
+
+	</ul> -->
+<!--	<h2> Accepted </h2>
+	<ul style="list-style-type:none">
+	<li id="space">
+	Y. Z. Lee, L. M. Burk, K. Wang, G. Cao, J. Volmer, J. Lu, and O. Zhou, "Prospective respiratory gated carbon nanotube micro-computed tomography", Academic Radiology, accepted (2010)
+	</li>
+<li id="space">
+Y. Z. Lee, L. M. Burk, K. Wang, G. Cao, J. Lu, and O. Zhou, "Carbon nanotube based x-ray sources: Applications in pre-clinical and medical imaging", Nuclear Inst. and Methods in Physics Research, A, accepted (2010)
+	</li>
+	</ul>
+-->
+
+<!--	<h2> Refereed </h2>  -->
+
+<!--	<h3> 2010 - </h3>
+
+	<h3> 2005 - 2010 </h3>
+
+	<h3> < 2005 </h3> -->
+
+<ul>
+
+<p class="pub">
+31.	Cao, G., J. Lu, and O. Zhou. <i>X-Ray Fluorescence Molecular Imaging with High Sensitivity: Feasibility Study in Phantoms</i>. 2012. <b>8313</b>(1): SPIE.</p> <p class="pub">
+30.	Cao, G., B. Liu, H. Yu, and G. Wang. <i>A New Ct Architecture with Stationary X-Ray Sources</i>. 2012. <b>8506</b>: SPIE.</p> <p class="pub">
+29.	Zhou, O., G. Cao, Y. Lee, and J. Lu, <i>Carbon Nanotube X-Ray for Dynamic Micro-Ct Imaging of Small Animal Models</i>, in <i>Nanoplatform-Based Molecular Imaging</i>, X. Chen, Editor 2011, John Wiley &amp; Sons, Inc.: Hoboken, New Jersey, U.S.A.</p> <p class="pub">
+28.	Liu, B., G. Wang, E.L. Ritman, G. Cao, J. Lu, O. Zhou, L. Zeng, and H. Yu, <i>Image Reconstruction from Limited Angle Projections Collected by Multisource Interior X-Ray Imaging Systems.</i> Phys Med Biol, 2011. <b>56</b>(19): p. 6337-6357.</p> <p class="pub">
+27.	Lee, Y.Z., L.M. Burk, K.H. Wang, G. Cao, J. Volmer, J. Lu, and O. Zhou, <i>Prospective Respiratory Gated Carbon Nanotube Micro Computed Tomography.</i> Acad Radiol, 2011. <b>18</b>(5): p. 588-593.</p> <p class="pub">
+26.	Lee, Y.Z., L. Burk, K.H. Wang, G. Cao, J. Lu, and O. Zhou, <i>Carbon Nanotube Based X-Ray Sources: Applications in Pre-Clinical and Medical Imaging.</i> Nucl Instrum Methods Phys Res A, 2011: p. S281-S283.</p> <p class="pub">
+25.	Sultana, S., X. Calderon-Colon, G. Cao, O. Zhou, and J. Lu. <i>Design and Characterization of a Carbon-Nanotube-Based Micro-Focus X-Ray Tube for Small Animal Imaging</i>. 2010. <b>7622</b>(1): SPIE.</p> <p class="pub">
+24.	Lu, Y., H. Yu, G. Cao, J. Zhao, G. Wang, and O. Zhou, <i>Multibeam Field Emission X-Ray System with Half-Scan Reconstruction Algorithm.</i> Med Phys, 2010. <b>37</b>(7): p. 3773-3781.</p> <p class="pub">
+23.	Cao, G., X. Calderon-Colon, L. Burk, Y.Z. Lee, S. Sultana, J. Lu, and O. Zhou. <i>Desktop Micro-Ct with a Nanotube Field Emission X-Ray Source for High-Resolution Cardiac Imaging</i>. 2010. <b>7622</b>(1): SPIE.</p> <p class="pub">
+22.	Cao, G., L. Burk, Y. Lee, X. Calderon-Colon, S. Sultana, J. Lu, and O. Zhou, <i>Prospective-Gated Cardiac Micro-Ct Imaging of Free-Breathing Mice Using Carbon Nanotube Field Emission X-Ray.</i> Medical Physics, 2010. <b>37</b>(10): p. 5306-5312.</p> <p class="pub">
+21.	Bian, J., X. Han, E.Y. Sidky, G. Cao, J. Lu, O. Zhou, and X. Pan, <i>Investigation of Sparse Data Mouse Imaging Using Micro-Ct with a Carbon-Nanotube-Based X-Ray Source.</i> Tsinghua Sci. Technol., 2010. <b>15</b>(1): p. 74-78.</p> <p class="pub">
+20.	Yu, H.Y., G.H. Cao, L. Burk, Y. Lee, J.P. Lu, P. Santago, O. Zhou, and G. Wang, <i>Compressive Sampling Based Interior Reconstruction for Dynamic Carbon Nanotube Micro-Ct.</i> Journal of X-Ray Science and Technology, 2009. <b>17</b>(4): p. 295-303.</p> <p class="pub">
+19.	deKrafft, K.E., Z. Xie, G. Cao, S. Tran, L. Ma, O.Z. Zhou, and W. Lin, <i>Iodinated Nanoscale Coordination Polymers as Potential Contrast Agents for Computed Tomography.</i> Angewandte Chemie International Edition, 2009. <b>48</b>(52): p. 9901-9904.</p> <p class="pub">
+18.	Cao, G.H., T. Hamilton, C.M. Laperle, C. Rose-Petruck, and G.J. Diebold, <i>X-Ray Phase Contrast Imaging: Transmission Functions Separable in Cylindrical Coordinates.</i> Journal of Applied Physics, 2009. <b>105</b>(10).</p> <p class="pub">
+17.	Cao, G., J. Zhang, O. Zhou, and J. Lu, <i>Temporal Multiplexing Radiography for Dynamic X-Ray Imaging.</i> Review of Scientific Instruments, 2009. <b>80</b>(9): p. 093902.</p> <p class="pub">
+16.	Cao, G., Y. Lee, R. Peng, Z. Liu, R. Rajaram, X. Calderon-Colon, L. An, P. Wang, T. Phan, S. Sultana, D. Lalush, J. Lu, and O. Zhou, <i>A Dynamic Micro-Ct Scanner Based on a Carbon Nanotube Field Emission X-Ray Source.</i> Physics in Medicine and Biology, 2009. <b>54</b>(8): p. 2323-2340.</p> <p class="pub">
+15.	Cao, G., X. Calderon-Colon, P. Wang, L. Burk, Y.Z. Lee, R. Rajaram, S. Sultana, D. Lalush, J. Lu, and O. Zhou. <i>A Dynamic Micro-Ct Scanner with a Stationary Mouse Bed Using a Compact Carbon Nanotube Field Emission X-Ray Tube</i>. 2009. <b>7258</b>(1): SPIE.</p> <p class="pub">
+14.	Calderon-Colon, X., H.Z. Geng, B. Gao, L. An, G.H. Cao, and O. Zhou, <i>A Carbon Nanotube Field Emission Cathode with High Current Density and Long-Term Stability.</i> Nanotechnology, 2009. <b>20</b>(32).</p> <p class="pub">
+13.	Yang, G., R. Rajaram, G. Cao, S. Sultana, Z. Liu, D. Lalush, J. Lu, and O. Zhou. <i>Stationary Digital Breast Tomosynthesis System with a Multi-Beam Field Emission X-Ray Source Array</i>. 2008. <b>6913</b>(1): SPIE.</p> <p class="pub">
+12.	Cao, G., Y.Z. Lee, Z. Liu, R. Rajaram, R. Peng, X. Calderon-Colon, L. An, P. Wang, T. Phan, D. Lalush, J. Lu, and O. Zhou. <i>Respiratory-Gated Micro-Ct Using a Carbon Nanotube Based Micro-Focus Field Emission X-Ray Source</i>. 2008. <b>6913</b>(1): SPIE.</p> <p class="pub">
+11.	Cao, G., S. Danworaphong, and G. Diebold, <i>A Search for Laser Heating of a Sonoluminescing Bubble.</i> European Physical Journal-Special Topics, 2008. <b>153</b>: p. 215-221.</p> <p class="pub">
+10.	Yang, G., R. Rajaram, J. Zhang, S. Sultana, G. Cao, D. Lalush, J. Lu, and O. Zhou, <i>A Novel Gantry-Free Dbt System Using a Stationary Multi-Beam Field Emission X-Ray Source Array Based on Carbon Nanotubes (Cnts).</i> Medical Physics, 2007. <b>34</b>(6): p. 2347-2347.</p> <p class="pub">
+9.	Laperle, C.M., G. Cao, T.J. Hamilton, C. Rose-Petruck, and G.J. Diebold. <i>Photothermal Modulation of X-Ray Phase Contrast Images</i>. 2007. <b>6437</b>(1): SPIE.</p> <p class="pub">
+8.	Cao, G.H., T.J. Hamilton, C. Rose-Petruck, and G.J. Diebold, <i>X-Ray Phase-Contrast Imaging: Transmission Functions Separable in Cartesian Coordinates.</i> Journal of the Optical Society of America, 2007. <b>24</b>(4): p. 1201-1208.</p> <p class="pub">
+7.	Hamilton, T.J., C. Guohua, C.J. Bailat, J. Wands, S. Gehring, C. Rose-Petruck, and G.J. Diebold. <i>Ultrasonically Modulated X-Ray Phase Contrast Imaging</i>. in <i>Biomedical Imaging: Nano to Macro, 2006. 3rd IEEE International Symposium on</i>. 2006.</p> <p class="pub"> 
+6.	Hamilton, T.J., G. Cao, S. Wang, C.J. Bailat, C.K. Nguyen, S. Li, S. Gehring, J. Wands, V. Gusev, C. Rose-Petruck, and G.J. Diebold. <i>Ultrasonically Modulated X-Ray Phase Contrast and Vibration Potential Imaging Methods</i>. 2006. <b>6086</b>(1): SPIE.</p> <p class="pub">
+5.	Cao, G., <i>Experimental Investigation of Laser Enhancement of Single-Bubble Sonoluminescence.</i> Brown University, 2005. <b>Ph.D. Thesis</b>: pages 139.</p> <p class="pub">
+4.	Rose-Petruck, C., Y. Jiang, T. Lee, and G.H. Cao, <i>Ultrafast Lasers and X-Ray Absorption Spectroscopy: Investigating Molecular Structure and Dynamics of Solvated Molecules.</i> Abstracts of Papers of the American Chemical Society, 2002. <b>223</b>: p. 322-PHYS.</p> <p class="pub">
+3.	Jiang, Y., T. Lee, G.H. Cao, and C. Rose-Petruck, <i>Molecular Structure of Solvated Molecules Measured Using an Ultrafast Laboratory-Based X-Ray Source.</i> Abstracts of Papers of the American Chemical Society, 2002. <b>223</b>: p. 296-PHYS.</p> <p class="pub">
+2.	Rose-Petruck, C., Y. Jiang, W. Li, G. Ketwaroo, G. Cao, and C. Wu, <i>Generation and Application of X-Radiation by Interaction of Ultrashort High-Intensity Laser Pulses with Condensed Matter.</i> Abstracts of Papers of the American Chemical Society, 2001. <b>221</b>: p. U290-U290.</p> <p class="pub">
+1.	Jiang, Y., W. Li, G. Cao, T. Lee, G. Ketwaroo, and C.G. Rose-Petruck. <i>Ultrafast X-Ray Absorption Spectroscopy: Observing the Equilibrium Structure and Structural Dynamics of Solvated Molecules</i>. 2001. <b>4504</b>(1): SPIE.</p> <p class="pub">
+
+
+</ul>
+</div><!--end bracket for "main"-->

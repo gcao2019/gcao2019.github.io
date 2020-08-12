@@ -1,0 +1,2230 @@
+
+body {
+  background-color: rgb(255,255,255);
+  border: none;
+  font-family: Arial;
+  font-size: 83%;
+  font-style: normal;
+  font-weight: 400;
+  text-align: left;
+  color: rgb(0,0,0)
+}
+body .leadin math {
+  color: rgb(255,0,0)
+}
+body A {
+  font-weight: 400;
+  color: rgb(51,102,204)
+}
+body A math {
+  color: rgb(0,128,0)
+}
+body TABLE {
+  padding-left: 0pt;
+  padding-right: 0pt;
+  padding-top: 0pt;
+  padding-bottom: 0pt
+}
+body TD {
+  padding-left: 0.5em;
+  padding-right: 0.5em;
+  padding-top: 0.5ex;
+  padding-bottom: 0.5ex
+}
+ul {
+  list-style-type: disc
+}
+ul ul {
+  list-style-type: disc
+}
+ul ul ul {
+  list-style-type: disc
+}
+ul ul ul ul {
+  list-style-type: disc
+}
+ol {
+  list-style-type: decimal
+}
+ol ol {
+  list-style-type: lower-alpha
+}
+ol ol ol {
+  list-style-type: lower-roman
+}
+ol ol ol ol {
+  list-style-type: lower-alpha
+}
+p {
+  background-color: rgb(255,255,255);
+  border: none;
+  font-size: 100%;
+  margin-left: 0pt;
+  margin-top: 0pt;
+  margin-right: 0pt;
+  margin-bottom: 0pt;
+  padding-left: 0pt;
+  padding-top: 1pt;
+  padding-right: 0pt;
+  padding-bottom: 1pt;
+  text-indent: 0pt
+}
+p.Body-Math {
+  background-color: rgb(255,255,255);
+  border: none;
+  font-size: 100%;
+  text-align: left;
+  color: rgb(128,0,128);
+  margin-left: 0pt;
+  margin-top: 0pt;
+  margin-right: 0pt;
+  margin-bottom: 0pt;
+  padding-left: 0pt;
+  padding-top: 0pt;
+  padding-right: 0pt;
+  padding-bottom: 0pt;
+  text-indent: 0pt
+}
+h1.part {
+  background-color: rgb(255,255,255);
+  border: none;
+  font-size: 160%;
+  font-style: normal;
+  font-weight: 700;
+  text-align: left;
+  margin-left: 0pt;
+  margin-top: 0pt;
+  margin-right: 0pt;
+  margin-bottom: 0pt;
+  padding-left: 0pt;
+  padding-top: 4pt;
+  padding-right: 0pt;
+  padding-bottom: 4pt;
+  text-indent: 0pt
+}
+h1.section {
+  background-color: rgb(255,255,255);
+  border: none;
+  font-size: 120%;
+  font-style: normal;
+  font-weight: 700;
+  text-align: left;
+  margin-left: 0pt;
+  margin-top: 0pt;
+  margin-right: 0pt;
+  margin-bottom: 0pt;
+  padding-left: 0pt;
+  padding-top: 4pt;
+  padding-right: 0pt;
+  padding-bottom: 4pt;
+  text-indent: 0pt
+}
+h2.subsection {
+  background-color: rgb(255,255,255);
+  border: none;
+  font-size: 110%;
+  font-style: normal;
+  font-weight: 700;
+  margin-left: 0pt;
+  margin-top: 0pt;
+  margin-right: 0pt;
+  margin-bottom: 0pt;
+  padding-left: 0pt;
+  padding-top: 4pt;
+  padding-right: 18pt;
+  padding-bottom: 2pt;
+  text-indent: 0pt
+}
+h3.subsubsection {
+  background-color: rgb(255,255,255);
+  border: none;
+  font-size: 100%;
+  font-style: normal;
+  font-weight: 700;
+  text-align: left;
+  margin-left: 0pt;
+  margin-top: 0pt;
+  margin-right: 0pt;
+  margin-bottom: 0pt;
+  padding-left: 0pt;
+  padding-top: 4pt;
+  padding-right: 0pt;
+  padding-bottom: 1pt;
+  text-indent: 0pt
+}
+h4.paragraph {
+  background-color: rgb(255,255,255);
+  border: none;
+  font-size: 90%;
+  font-style: normal;
+  font-weight: 700;
+  margin-left: 0pt;
+  margin-top: 0pt;
+  margin-right: 0pt;
+  margin-bottom: 0pt;
+  padding-left: 0pt;
+  padding-top: 3pt;
+  padding-right: 0pt;
+  padding-bottom: 1pt;
+  text-indent: 0pt
+}
+h5.subparagraph {
+  background-color: rgb(255,255,255);
+  border: none;
+  font-size: 110%;
+  font-style: normal;
+  font-weight: 400;
+  text-align: left;
+  color: rgb(0,0,255);
+  margin-left: 0pt;
+  margin-top: 0pt;
+  margin-right: 0pt;
+  margin-bottom: 0pt;
+  padding-left: 0pt;
+  padding-top: 3pt;
+  padding-right: 0pt;
+  padding-bottom: 1pt;
+  text-indent: 0pt
+}
+em {
+  font-style: normal;
+  font-weight: 700;
+  color: rgb(151,134,40)
+}
+em span.inlineMath {
+  color: rgb(255,0,255)
+}
+span.rm {
+  font-family: Times New Roman;
+  color: rgb(0,0,255)
+}
+span.rm span.inlineMath {
+  color: rgb(0,0,255)
+}
+span.bs {
+  font-weight: 700
+}
+strong {
+  font-weight: 700
+}
+span.it {
+  font-style: italic
+}
+span.it span.inlineMath {
+  color: rgb(0,255,255)
+}
+span.sl {
+  font-style: italic;
+  font-weight: 700;
+  color: rgb(9,62,125)
+}
+span.sf {
+  font-style: normal;
+  font-weight: 700;
+  color: rgb(0,0,0)
+}
+span.sf span.inlineMath {
+  color: rgb(0,0,0)
+}
+span.sc {
+  color: rgb(0,0,0)
+}
+span.sc span.inlineMath {
+  color: rgb(0,128,0)
+}
+span.tt {
+  font-family: Courier New;
+  font-size: 90%
+}
+span.tt span.inlineMath {
+  color: rgb(0,0,0)
+}
+span.cal {
+  font-family: Times New Roman;
+  color: rgb(192,192,192)
+}
+span.cal span.inlineMath {
+  color: rgb(255,0,255)
+}
+span.frak {
+  font-family: Times New Roman;
+  font-style: normal;
+  color: rgb(192,192,192)
+}
+span.frak span.inlineMath {
+  color: rgb(255,0,255)
+}
+span.Bbb {
+  font-family: Times New Roman;
+  color: rgb(192,192,192)
+}
+span.tiny {
+  font-size: 60%;
+  color: rgb(255,0,255)
+}
+span.scriptsize {
+  font-size: 90%;
+  color: rgb(0,0,0)
+}
+span.footnotesize {
+  font-size: 80%;
+  color: rgb(255,0,255)
+}
+span.small {
+  font-size: 90%;
+  color: rgb(0,0,0)
+}
+span.small A {
+  font-family: Arial;
+  font-size: 100%
+}
+span.normalsize {
+  color: rgb(255,0,255)
+}
+span.large1 {
+  font-size: 140%;
+  color: rgb(255,0,255)
+}
+span.large2 {
+  font-size: 160%
+}
+span.huge1 {
+  font-size: 200%;
+  color: rgb(255,0,255)
+}
+span.huge2 {
+  font-size: 220%;
+  color: rgb(255,0,255)
+}
+dl.description dd p {
+  background-color: rgb(255,255,255);
+  border: none;
+  font-size: 100%;
+  margin-left: 0pt;
+  margin-top: 0pt;
+  margin-right: 0pt;
+  margin-bottom: 0pt;
+  padding-left: 0pt;
+  padding-top: 4pt;
+  padding-right: 18pt;
+  padding-bottom: 4pt;
+  text-indent: 0pt
+}
+dl.description {
+  background-color: rgb(255,255,255);
+  border: none;
+  font-size: 100%
+}
+dl.description dt.leadin {
+  font-family: Arial;
+  font-size: 90%;
+  font-style: italic;
+  font-weight: 700;
+  color: rgb(0,0,0)
+}
+ol li p {
+  background-color: rgb(255,255,255);
+  border: none;
+  font-size: 100%;
+  margin-left: 0pt;
+  margin-top: 0pt;
+  margin-right: 0pt;
+  margin-bottom: 0pt;
+  padding-left: 0pt;
+  padding-top: 1pt;
+  padding-right: 18pt;
+  padding-bottom: 1pt;
+  text-indent: 0pt
+}
+ol {
+  background-color: rgb(255,255,255);
+  border: none;
+  font-size: 100%
+}
+ol .leadin {
+  font-family: Arial;
+  font-size: 90%;
+  font-style: normal;
+  font-weight: 400
+}
+ul li p {
+  font-size: 100%;
+  margin-left: 0pt;
+  margin-top: 0pt;
+  margin-right: 0pt;
+  margin-bottom: 0pt;
+  padding-left: 0pt;
+  padding-top: 1pt;
+  padding-right: 0pt;
+  padding-bottom: 1pt;
+  text-indent: 0pt
+}
+ul {
+  font-size: 100%
+}
+ul .leadin {
+  font-family: Arial;
+  font-size: 100%;
+  font-style: normal;
+  font-weight: 700
+}
+ul A {
+  font-family: Arial;
+  font-size: 100%
+}
+ol.thebibliography li p {
+  font-size: 100%;
+  margin-left: 0pt;
+  margin-top: 0pt;
+  margin-right: 0pt;
+  margin-bottom: 0pt;
+  padding-left: 18pt;
+  padding-top: 0pt;
+  padding-right: 0pt;
+  padding-bottom: 0pt;
+  text-indent: 0pt
+}
+ol.thebibliography {
+  font-size: 100%
+}
+p.quote {
+  background-color: rgb(255,255,255);
+  border: none;
+  font-size: 100%;
+  font-style: italic;
+  font-weight: 700;
+  text-align: left;
+  color: rgb(151,134,40);
+  margin-left: 0pt;
+  margin-top: 0pt;
+  margin-right: 0pt;
+  margin-bottom: 0pt;
+  padding-left: 0pt;
+  padding-top: 0pt;
+  padding-right: 0pt;
+  padding-bottom: 0pt;
+  text-indent: 0pt
+}
+p.quotation {
+  background-color: rgb(240,240,240);
+  border: none;
+  font-size: 100%;
+  text-align: left;
+  margin-left: 36pt;
+  margin-top: 0pt;
+  margin-right: 0pt;
+  margin-bottom: 0pt;
+  padding-left: 0pt;
+  padding-top: 4pt;
+  padding-right: 36pt;
+  padding-bottom: 4pt;
+  text-indent: 0pt
+}
+p.flushleft {
+  background-color: rgb(165,255,165);
+  border: none;
+  font-size: 100%;
+  text-align: left;
+  margin-left: 0pt;
+  margin-top: 0pt;
+  margin-right: 0pt;
+  margin-bottom: 0pt;
+  padding-left: 0pt;
+  padding-top: 0pt;
+  padding-right: 0pt;
+  padding-bottom: 0pt;
+  text-indent: 0pt
+}
+p.flushright {
+  background-color: rgb(255,255,165);
+  border: none;
+  font-size: 100%;
+  text-align: right;
+  margin-left: 0pt;
+  margin-top: 0pt;
+  margin-right: 0pt;
+  margin-bottom: 0pt;
+  padding-left: 0pt;
+  padding-top: 0pt;
+  padding-right: 0pt;
+  padding-bottom: 0pt;
+  text-indent: 0pt
+}
+p.center {
+  background-color: rgb(255,255,255);
+  border: none;
+  font-size: 100%;
+  text-align: center;
+  margin-left: 18pt;
+  margin-top: 0pt;
+  margin-right: 0pt;
+  margin-bottom: 0pt;
+  padding-left: 0pt;
+  padding-top: 0pt;
+  padding-right: 0pt;
+  padding-bottom: 0pt;
+  text-indent: 0pt
+}
+p.proof {
+  background-color: rgb(225,225,225);
+  border: none;
+  font-size: 100%;
+  margin-left: 58pt;
+  margin-top: 0pt;
+  margin-right: 0pt;
+  margin-bottom: 0pt;
+  padding-left: 0pt;
+  padding-top: 0pt;
+  padding-right: 0pt;
+  padding-bottom: 0pt
+}
+div.proof {
+  background-color: rgb(225,225,225);
+  border: none;
+  font-size: 100%
+}
+div.proof span.leadin {
+  background-color: rgb(255,255,255);
+  font-family: Arial;
+  font-style: normal;
+  font-weight: 700;
+  padding-top: 0pt
+}
+p.proof-FirstPara {
+  background-color: rgb(225,225,225);
+  font-size: 100%;
+  margin-left: 58pt;
+  margin-top: 0pt;
+  margin-right: 0pt;
+  margin-bottom: 0pt;
+  padding-left: 0pt;
+  padding-top: 0pt;
+  padding-right: 0pt;
+  padding-bottom: 0pt;
+  text-indent: 2pt
+}
+p.acknowledgement {
+  background-color: rgb(255,255,255);
+  border: none;
+  font-size: 100%;
+  font-style: italic;
+  font-weight: 400;
+  text-align: left;
+  margin-left: 0pt;
+  margin-top: 0pt;
+  margin-right: 0pt;
+  margin-bottom: 0pt;
+  padding-left: 58pt;
+  padding-top: 4pt;
+  padding-right: 0pt;
+  padding-bottom: 4pt
+}
+div.acknowledgement {
+  background-color: rgb(255,255,255);
+  border: none;
+  font-size: 90%;
+  font-weight: 400
+}
+div.acknowledgement span.leadin {
+  background-color: rgb(255,255,255);
+  font-family: Arial;
+  font-size: 111%;
+  font-style: normal;
+  font-weight: 700;
+  padding-top: 4pt
+}
+p.acknowledgement-FirstPara {
+  background-color: rgb(255,255,255);
+  font-size: 100%;
+  font-style: italic;
+  font-weight: 400;
+  text-align: left;
+  margin-left: 0pt;
+  margin-top: 0pt;
+  margin-right: 0pt;
+  margin-bottom: 0pt;
+  padding-left: 58pt;
+  padding-top: 4pt;
+  padding-right: 0pt;
+  padding-bottom: 4pt;
+  text-indent: 2pt
+}
+p.algorithm {
+  background-color: rgb(255,255,255);
+  border: none;
+  font-size: 100%;
+  font-style: italic;
+  font-weight: 400;
+  text-align: left;
+  margin-left: 0pt;
+  margin-top: 0pt;
+  margin-right: 0pt;
+  margin-bottom: 0pt;
+  padding-left: 58pt;
+  padding-top: 4pt;
+  padding-right: 0pt;
+  padding-bottom: 4pt
+}
+div.algorithm {
+  background-color: rgb(255,255,255);
+  border: none;
+  font-size: 100%;
+  font-weight: 400
+}
+div.algorithm span.leadin {
+  background-color: rgb(255,255,255);
+  font-family: Arial;
+  font-size: 100%;
+  font-style: normal;
+  font-weight: 700;
+  padding-top: 4pt
+}
+p.algorithm-FirstPara {
+  background-color: rgb(255,255,255);
+  font-size: 100%;
+  font-style: italic;
+  font-weight: 400;
+  text-align: left;
+  margin-left: 0pt;
+  margin-top: 0pt;
+  margin-right: 0pt;
+  margin-bottom: 0pt;
+  padding-left: 58pt;
+  padding-top: 4pt;
+  padding-right: 0pt;
+  padding-bottom: 4pt;
+  text-indent: 2pt
+}
+p.axiom {
+  background-color: rgb(255,255,255);
+  border: none;
+  font-size: 100%;
+  font-style: italic;
+  font-weight: 400;
+  text-align: left;
+  margin-left: 0pt;
+  margin-top: 0pt;
+  margin-right: 0pt;
+  margin-bottom: 0pt;
+  padding-left: 58pt;
+  padding-top: 4pt;
+  padding-right: 0pt;
+  padding-bottom: 4pt
+}
+div.axiom {
+  background-color: rgb(255,255,255);
+  border: none;
+  font-size: 100%;
+  font-weight: 400
+}
+div.axiom span.leadin {
+  background-color: rgb(255,255,255);
+  font-family: Arial;
+  font-size: 100%;
+  font-style: normal;
+  font-weight: 700;
+  padding-top: 4pt
+}
+p.axiom-FirstPara {
+  background-color: rgb(255,255,255);
+  font-size: 100%;
+  font-style: italic;
+  font-weight: 400;
+  text-align: left;
+  margin-left: 0pt;
+  margin-top: 0pt;
+  margin-right: 0pt;
+  margin-bottom: 0pt;
+  padding-left: 58pt;
+  padding-top: 4pt;
+  padding-right: 0pt;
+  padding-bottom: 4pt;
+  text-indent: 2pt
+}
+p.case {
+  background-color: rgb(255,255,255);
+  border: none;
+  font-size: 100%;
+  font-style: italic;
+  font-weight: 400;
+  text-align: left;
+  margin-left: 0pt;
+  margin-top: 0pt;
+  margin-right: 0pt;
+  margin-bottom: 0pt;
+  padding-left: 58pt;
+  padding-top: 4pt;
+  padding-right: 0pt;
+  padding-bottom: 4pt
+}
+div.case {
+  background-color: rgb(255,255,255);
+  border: none;
+  font-size: 100%;
+  font-weight: 400
+}
+div.case span.leadin {
+  background-color: rgb(255,255,255);
+  font-family: Arial;
+  font-size: 100%;
+  font-style: normal;
+  font-weight: 700;
+  padding-top: 4pt
+}
+p.case-FirstPara {
+  background-color: rgb(255,255,255);
+  font-size: 100%;
+  font-style: italic;
+  font-weight: 400;
+  text-align: left;
+  margin-left: 0pt;
+  margin-top: 0pt;
+  margin-right: 0pt;
+  margin-bottom: 0pt;
+  padding-left: 58pt;
+  padding-top: 4pt;
+  padding-right: 0pt;
+  padding-bottom: 4pt;
+  text-indent: 2pt
+}
+p.claim {
+  background-color: rgb(255,255,255);
+  border: none;
+  font-size: 100%;
+  font-style: italic;
+  font-weight: 400;
+  text-align: left;
+  margin-left: 0pt;
+  margin-top: 0pt;
+  margin-right: 0pt;
+  margin-bottom: 0pt;
+  padding-left: 58pt;
+  padding-top: 4pt;
+  padding-right: 0pt;
+  padding-bottom: 4pt
+}
+div.claim {
+  background-color: rgb(255,255,255);
+  border: none;
+  font-size: 100%;
+  font-weight: 400
+}
+div.claim span.leadin {
+  background-color: rgb(255,255,255);
+  font-family: Arial;
+  font-size: 100%;
+  font-style: normal;
+  font-weight: 700;
+  padding-top: 4pt
+}
+p.claim-FirstPara {
+  background-color: rgb(255,255,255);
+  font-size: 100%;
+  font-style: italic;
+  font-weight: 400;
+  text-align: left;
+  margin-left: 0pt;
+  margin-top: 0pt;
+  margin-right: 0pt;
+  margin-bottom: 0pt;
+  padding-left: 58pt;
+  padding-top: 4pt;
+  padding-right: 0pt;
+  padding-bottom: 4pt;
+  text-indent: 2pt
+}
+p.conclusion {
+  background-color: rgb(255,255,255);
+  border: none;
+  font-size: 100%;
+  font-style: italic;
+  font-weight: 400;
+  text-align: left;
+  margin-left: 0pt;
+  margin-top: 0pt;
+  margin-right: 0pt;
+  margin-bottom: 0pt;
+  padding-left: 58pt;
+  padding-top: 4pt;
+  padding-right: 0pt;
+  padding-bottom: 4pt
+}
+div.conclusion {
+  background-color: rgb(255,255,255);
+  border: none;
+  font-size: 100%;
+  font-weight: 400
+}
+div.conclusion span.leadin {
+  background-color: rgb(255,255,255);
+  font-family: Arial;
+  font-size: 100%;
+  font-style: normal;
+  font-weight: 700;
+  padding-top: 4pt
+}
+p.conclusion-FirstPara {
+  background-color: rgb(255,255,255);
+  font-size: 100%;
+  font-style: italic;
+  font-weight: 400;
+  text-align: left;
+  margin-left: 0pt;
+  margin-top: 0pt;
+  margin-right: 0pt;
+  margin-bottom: 0pt;
+  padding-left: 58pt;
+  padding-top: 4pt;
+  padding-right: 0pt;
+  padding-bottom: 4pt;
+  text-indent: 2pt
+}
+p.condition {
+  background-color: rgb(255,255,255);
+  border: none;
+  font-size: 100%;
+  font-style: italic;
+  font-weight: 400;
+  text-align: left;
+  margin-left: 0pt;
+  margin-top: 0pt;
+  margin-right: 0pt;
+  margin-bottom: 0pt;
+  padding-left: 58pt;
+  padding-top: 4pt;
+  padding-right: 0pt;
+  padding-bottom: 4pt
+}
+div.condition {
+  background-color: rgb(255,255,255);
+  border: none;
+  font-size: 100%;
+  font-weight: 400
+}
+div.condition span.leadin {
+  background-color: rgb(255,255,255);
+  font-family: Arial;
+  font-size: 100%;
+  font-style: normal;
+  font-weight: 700;
+  padding-top: 4pt
+}
+p.condition-FirstPara {
+  background-color: rgb(255,255,255);
+  font-size: 100%;
+  font-style: italic;
+  font-weight: 400;
+  text-align: left;
+  margin-left: 0pt;
+  margin-top: 0pt;
+  margin-right: 0pt;
+  margin-bottom: 0pt;
+  padding-left: 58pt;
+  padding-top: 4pt;
+  padding-right: 0pt;
+  padding-bottom: 4pt;
+  text-indent: 2pt
+}
+p.conjecture {
+  background-color: rgb(255,255,255);
+  border: none;
+  font-size: 100%;
+  font-style: italic;
+  font-weight: 400;
+  text-align: left;
+  margin-left: 0pt;
+  margin-top: 0pt;
+  margin-right: 0pt;
+  margin-bottom: 0pt;
+  padding-left: 58pt;
+  padding-top: 4pt;
+  padding-right: 0pt;
+  padding-bottom: 4pt
+}
+div.conjecture {
+  background-color: rgb(255,255,255);
+  border: none;
+  font-size: 100%;
+  font-weight: 400
+}
+div.conjecture span.leadin {
+  background-color: rgb(255,255,255);
+  font-family: Arial;
+  font-size: 100%;
+  font-style: normal;
+  font-weight: 700;
+  padding-top: 4pt
+}
+p.conjecture-FirstPara {
+  background-color: rgb(255,255,255);
+  font-size: 100%;
+  font-style: italic;
+  font-weight: 400;
+  text-align: left;
+  margin-left: 0pt;
+  margin-top: 0pt;
+  margin-right: 0pt;
+  margin-bottom: 0pt;
+  padding-left: 58pt;
+  padding-top: 4pt;
+  padding-right: 0pt;
+  padding-bottom: 4pt;
+  text-indent: 2pt
+}
+p.corollary {
+  background-color: rgb(255,255,255);
+  border: none;
+  font-size: 100%;
+  font-style: italic;
+  font-weight: 400;
+  text-align: left;
+  margin-left: 0pt;
+  margin-top: 0pt;
+  margin-right: 0pt;
+  margin-bottom: 0pt;
+  padding-left: 58pt;
+  padding-top: 4pt;
+  padding-right: 0pt;
+  padding-bottom: 4pt
+}
+div.corollary {
+  background-color: rgb(255,255,255);
+  border: none;
+  font-size: 100%;
+  font-weight: 400
+}
+div.corollary span.leadin {
+  background-color: rgb(255,255,255);
+  font-family: Arial;
+  font-size: 100%;
+  font-style: normal;
+  font-weight: 700;
+  padding-top: 4pt
+}
+p.corollary-FirstPara {
+  background-color: rgb(255,255,255);
+  font-size: 100%;
+  font-style: italic;
+  font-weight: 400;
+  text-align: left;
+  margin-left: 0pt;
+  margin-top: 0pt;
+  margin-right: 0pt;
+  margin-bottom: 0pt;
+  padding-left: 58pt;
+  padding-top: 4pt;
+  padding-right: 0pt;
+  padding-bottom: 4pt;
+  text-indent: 2pt
+}
+p.criterion {
+  background-color: rgb(255,255,255);
+  border: none;
+  font-size: 100%;
+  font-style: italic;
+  font-weight: 400;
+  text-align: left;
+  margin-left: 0pt;
+  margin-top: 0pt;
+  margin-right: 0pt;
+  margin-bottom: 0pt;
+  padding-left: 58pt;
+  padding-top: 4pt;
+  padding-right: 0pt;
+  padding-bottom: 4pt
+}
+div.criterion {
+  background-color: rgb(255,255,255);
+  border: none;
+  font-size: 100%;
+  font-weight: 400
+}
+div.criterion span.leadin {
+  background-color: rgb(255,255,255);
+  font-family: Arial;
+  font-size: 100%;
+  font-style: normal;
+  font-weight: 700;
+  padding-top: 4pt
+}
+p.criterion-FirstPara {
+  background-color: rgb(255,255,255);
+  font-size: 100%;
+  font-style: italic;
+  font-weight: 400;
+  text-align: left;
+  margin-left: 0pt;
+  margin-top: 0pt;
+  margin-right: 0pt;
+  margin-bottom: 0pt;
+  padding-left: 58pt;
+  padding-top: 4pt;
+  padding-right: 0pt;
+  padding-bottom: 4pt;
+  text-indent: 2pt
+}
+p.definition {
+  background-color: rgb(255,255,255);
+  border: none;
+  font-size: 100%;
+  font-style: italic;
+  font-weight: 400;
+  text-align: left;
+  margin-left: 0pt;
+  margin-top: 0pt;
+  margin-right: 0pt;
+  margin-bottom: 0pt;
+  padding-left: 58pt;
+  padding-top: 4pt;
+  padding-right: 0pt;
+  padding-bottom: 4pt
+}
+div.definition {
+  background-color: rgb(255,255,255);
+  border: none;
+  font-size: 100%;
+  font-weight: 400
+}
+div.definition span.leadin {
+  background-color: rgb(255,255,255);
+  font-family: Arial;
+  font-size: 100%;
+  font-style: normal;
+  font-weight: 700;
+  padding-top: 4pt
+}
+p.definition-FirstPara {
+  background-color: rgb(255,255,255);
+  font-size: 100%;
+  font-style: italic;
+  font-weight: 400;
+  text-align: left;
+  margin-left: 0pt;
+  margin-top: 0pt;
+  margin-right: 0pt;
+  margin-bottom: 0pt;
+  padding-left: 58pt;
+  padding-top: 4pt;
+  padding-right: 0pt;
+  padding-bottom: 4pt;
+  text-indent: 2pt
+}
+p.example {
+  background-color: rgb(255,255,255);
+  border: none;
+  font-size: 100%;
+  font-style: italic;
+  font-weight: 400;
+  text-align: left;
+  margin-left: 0pt;
+  margin-top: 0pt;
+  margin-right: 0pt;
+  margin-bottom: 0pt;
+  padding-left: 58pt;
+  padding-top: 4pt;
+  padding-right: 0pt;
+  padding-bottom: 4pt
+}
+div.example {
+  background-color: rgb(255,255,255);
+  border: none;
+  font-size: 100%;
+  font-weight: 400
+}
+div.example span.leadin {
+  background-color: rgb(255,255,255);
+  font-family: Arial;
+  font-size: 100%;
+  font-style: normal;
+  font-weight: 700;
+  padding-top: 4pt
+}
+p.example-FirstPara {
+  background-color: rgb(255,255,255);
+  font-size: 100%;
+  font-style: italic;
+  font-weight: 400;
+  text-align: left;
+  margin-left: 0pt;
+  margin-top: 0pt;
+  margin-right: 0pt;
+  margin-bottom: 0pt;
+  padding-left: 58pt;
+  padding-top: 4pt;
+  padding-right: 0pt;
+  padding-bottom: 4pt;
+  text-indent: 2pt
+}
+p.exercise {
+  background-color: rgb(255,255,255);
+  border: none;
+  font-size: 100%;
+  font-style: italic;
+  font-weight: 400;
+  text-align: left;
+  margin-left: 0pt;
+  margin-top: 0pt;
+  margin-right: 0pt;
+  margin-bottom: 0pt;
+  padding-left: 58pt;
+  padding-top: 4pt;
+  padding-right: 0pt;
+  padding-bottom: 4pt
+}
+div.exercise {
+  background-color: rgb(255,255,255);
+  border: none;
+  font-size: 100%;
+  font-weight: 400
+}
+div.exercise span.leadin {
+  background-color: rgb(255,255,255);
+  font-family: Arial;
+  font-size: 100%;
+  font-style: normal;
+  font-weight: 700;
+  padding-top: 4pt
+}
+p.exercise-FirstPara {
+  background-color: rgb(255,255,255);
+  font-size: 100%;
+  font-style: italic;
+  font-weight: 400;
+  text-align: left;
+  margin-left: 0pt;
+  margin-top: 0pt;
+  margin-right: 0pt;
+  margin-bottom: 0pt;
+  padding-left: 58pt;
+  padding-top: 4pt;
+  padding-right: 0pt;
+  padding-bottom: 4pt;
+  text-indent: 2pt
+}
+p.lemma {
+  background-color: rgb(255,255,255);
+  border: none;
+  font-size: 100%;
+  font-style: italic;
+  font-weight: 400;
+  text-align: left;
+  margin-left: 0pt;
+  margin-top: 0pt;
+  margin-right: 0pt;
+  margin-bottom: 0pt;
+  padding-left: 58pt;
+  padding-top: 4pt;
+  padding-right: 0pt;
+  padding-bottom: 4pt
+}
+div.lemma {
+  background-color: rgb(255,255,255);
+  border: none;
+  font-size: 100%;
+  font-weight: 400
+}
+div.lemma span.leadin {
+  background-color: rgb(255,255,255);
+  font-family: Arial;
+  font-size: 100%;
+  font-style: normal;
+  font-weight: 700;
+  padding-top: 4pt
+}
+p.lemma-FirstPara {
+  background-color: rgb(255,255,255);
+  font-size: 100%;
+  font-style: italic;
+  font-weight: 400;
+  text-align: left;
+  margin-left: 0pt;
+  margin-top: 0pt;
+  margin-right: 0pt;
+  margin-bottom: 0pt;
+  padding-left: 58pt;
+  padding-top: 4pt;
+  padding-right: 0pt;
+  padding-bottom: 4pt;
+  text-indent: 2pt
+}
+p.notation {
+  background-color: rgb(255,255,255);
+  border: none;
+  font-size: 100%;
+  font-style: italic;
+  font-weight: 400;
+  text-align: left;
+  margin-left: 0pt;
+  margin-top: 0pt;
+  margin-right: 0pt;
+  margin-bottom: 0pt;
+  padding-left: 58pt;
+  padding-top: 4pt;
+  padding-right: 0pt;
+  padding-bottom: 4pt
+}
+div.notation {
+  background-color: rgb(255,255,255);
+  border: none;
+  font-size: 100%;
+  font-weight: 400
+}
+div.notation span.leadin {
+  background-color: rgb(255,255,255);
+  font-family: Arial;
+  font-size: 100%;
+  font-style: normal;
+  font-weight: 700;
+  padding-top: 4pt
+}
+p.notation-FirstPara {
+  background-color: rgb(255,255,255);
+  font-size: 100%;
+  font-style: italic;
+  font-weight: 400;
+  text-align: left;
+  margin-left: 0pt;
+  margin-top: 0pt;
+  margin-right: 0pt;
+  margin-bottom: 0pt;
+  padding-left: 58pt;
+  padding-top: 4pt;
+  padding-right: 0pt;
+  padding-bottom: 4pt;
+  text-indent: 2pt
+}
+p.problem {
+  background-color: rgb(255,255,255);
+  border: none;
+  font-size: 100%;
+  font-style: italic;
+  font-weight: 400;
+  text-align: left;
+  margin-left: 0pt;
+  margin-top: 0pt;
+  margin-right: 0pt;
+  margin-bottom: 0pt;
+  padding-left: 58pt;
+  padding-top: 4pt;
+  padding-right: 0pt;
+  padding-bottom: 4pt
+}
+div.problem {
+  background-color: rgb(255,255,255);
+  border: none;
+  font-size: 100%;
+  font-weight: 400
+}
+div.problem span.leadin {
+  background-color: rgb(255,255,255);
+  font-family: Arial;
+  font-size: 100%;
+  font-style: normal;
+  font-weight: 700;
+  padding-top: 4pt
+}
+p.problem-FirstPara {
+  background-color: rgb(255,255,255);
+  font-size: 100%;
+  font-style: italic;
+  font-weight: 400;
+  text-align: left;
+  margin-left: 0pt;
+  margin-top: 0pt;
+  margin-right: 0pt;
+  margin-bottom: 0pt;
+  padding-left: 58pt;
+  padding-top: 4pt;
+  padding-right: 0pt;
+  padding-bottom: 4pt;
+  text-indent: 2pt
+}
+p.proposition {
+  background-color: rgb(255,255,255);
+  border: none;
+  font-size: 100%;
+  font-style: italic;
+  font-weight: 400;
+  text-align: left;
+  margin-left: 0pt;
+  margin-top: 0pt;
+  margin-right: 0pt;
+  margin-bottom: 0pt;
+  padding-left: 58pt;
+  padding-top: 4pt;
+  padding-right: 0pt;
+  padding-bottom: 4pt
+}
+div.proposition {
+  background-color: rgb(255,255,255);
+  border: none;
+  font-size: 100%;
+  font-weight: 400
+}
+div.proposition span.leadin {
+  background-color: rgb(255,255,255);
+  font-family: Arial;
+  font-size: 100%;
+  font-style: normal;
+  font-weight: 700;
+  padding-top: 4pt
+}
+p.proposition-FirstPara {
+  background-color: rgb(255,255,255);
+  font-size: 100%;
+  font-style: italic;
+  font-weight: 400;
+  text-align: left;
+  margin-left: 0pt;
+  margin-top: 0pt;
+  margin-right: 0pt;
+  margin-bottom: 0pt;
+  padding-left: 58pt;
+  padding-top: 4pt;
+  padding-right: 0pt;
+  padding-bottom: 4pt;
+  text-indent: 2pt
+}
+p.remark {
+  background-color: rgb(255,255,255);
+  border: none;
+  font-size: 100%;
+  font-style: italic;
+  font-weight: 400;
+  text-align: left;
+  margin-left: 0pt;
+  margin-top: 0pt;
+  margin-right: 0pt;
+  margin-bottom: 0pt;
+  padding-left: 58pt;
+  padding-top: 4pt;
+  padding-right: 0pt;
+  padding-bottom: 4pt
+}
+div.remark {
+  background-color: rgb(255,255,255);
+  border: none;
+  font-size: 100%;
+  font-weight: 400
+}
+div.remark span.leadin {
+  background-color: rgb(255,255,255);
+  font-family: Arial;
+  font-size: 100%;
+  font-style: normal;
+  font-weight: 700;
+  padding-top: 4pt
+}
+p.remark-FirstPara {
+  background-color: rgb(255,255,255);
+  font-size: 100%;
+  font-style: italic;
+  font-weight: 400;
+  text-align: left;
+  margin-left: 0pt;
+  margin-top: 0pt;
+  margin-right: 0pt;
+  margin-bottom: 0pt;
+  padding-left: 58pt;
+  padding-top: 4pt;
+  padding-right: 0pt;
+  padding-bottom: 4pt;
+  text-indent: 2pt
+}
+p.solution {
+  background-color: rgb(255,255,255);
+  border: none;
+  font-size: 100%;
+  font-style: italic;
+  font-weight: 400;
+  text-align: left;
+  margin-left: 0pt;
+  margin-top: 0pt;
+  margin-right: 0pt;
+  margin-bottom: 0pt;
+  padding-left: 58pt;
+  padding-top: 4pt;
+  padding-right: 0pt;
+  padding-bottom: 4pt
+}
+div.solution {
+  background-color: rgb(255,255,255);
+  border: none;
+  font-size: 100%;
+  font-weight: 400
+}
+div.solution span.leadin {
+  background-color: rgb(255,255,255);
+  font-family: Arial;
+  font-size: 100%;
+  font-style: normal;
+  font-weight: 700;
+  padding-top: 4pt
+}
+p.solution-FirstPara {
+  background-color: rgb(255,255,255);
+  font-size: 100%;
+  font-style: italic;
+  font-weight: 400;
+  text-align: left;
+  margin-left: 0pt;
+  margin-top: 0pt;
+  margin-right: 0pt;
+  margin-bottom: 0pt;
+  padding-left: 58pt;
+  padding-top: 4pt;
+  padding-right: 0pt;
+  padding-bottom: 4pt;
+  text-indent: 2pt
+}
+p.summary {
+  background-color: rgb(255,255,255);
+  border: none;
+  font-size: 100%;
+  font-style: italic;
+  font-weight: 400;
+  text-align: left;
+  margin-left: 0pt;
+  margin-top: 0pt;
+  margin-right: 0pt;
+  margin-bottom: 0pt;
+  padding-left: 58pt;
+  padding-top: 4pt;
+  padding-right: 0pt;
+  padding-bottom: 4pt
+}
+div.summary {
+  background-color: rgb(255,255,255);
+  border: none;
+  font-size: 100%;
+  font-weight: 400
+}
+div.summary span.leadin {
+  background-color: rgb(255,255,255);
+  font-family: Arial;
+  font-size: 100%;
+  font-style: normal;
+  font-weight: 700;
+  padding-top: 4pt
+}
+p.summary-FirstPara {
+  background-color: rgb(255,255,255);
+  font-size: 100%;
+  font-style: italic;
+  font-weight: 400;
+  text-align: left;
+  margin-left: 0pt;
+  margin-top: 0pt;
+  margin-right: 0pt;
+  margin-bottom: 0pt;
+  padding-left: 58pt;
+  padding-top: 4pt;
+  padding-right: 0pt;
+  padding-bottom: 4pt;
+  text-indent: 2pt
+}
+p.theorem {
+  background-color: rgb(255,255,255);
+  border: none;
+  font-size: 100%;
+  font-style: italic;
+  font-weight: 400;
+  text-align: left;
+  margin-left: 0pt;
+  margin-top: 0pt;
+  margin-right: 0pt;
+  margin-bottom: 0pt;
+  padding-left: 58pt;
+  padding-top: 4pt;
+  padding-right: 0pt;
+  padding-bottom: 4pt
+}
+div.theorem {
+  background-color: rgb(255,255,255);
+  border: none;
+  font-size: 100%;
+  font-weight: 400
+}
+div.theorem span.leadin {
+  background-color: rgb(255,255,255);
+  font-family: Arial;
+  font-size: 100%;
+  font-style: normal;
+  font-weight: 700;
+  padding-top: 4pt
+}
+p.theorem-FirstPara {
+  background-color: rgb(255,255,255);
+  font-size: 100%;
+  font-style: italic;
+  font-weight: 400;
+  text-align: left;
+  margin-left: 0pt;
+  margin-top: 0pt;
+  margin-right: 0pt;
+  margin-bottom: 0pt;
+  padding-left: 58pt;
+  padding-top: 4pt;
+  padding-right: 0pt;
+  padding-bottom: 4pt;
+  text-indent: 2pt
+}
+p.f-0 {
+  font-size: 100%;
+  margin-left: 35pt;
+  margin-top: 0pt;
+  margin-right: 0pt;
+  margin-bottom: 0pt;
+  padding-left: 0pt;
+  padding-top: 0pt;
+  padding-right: 0pt;
+  padding-bottom: 0pt
+}
+div.f-0 {
+  font-size: 100%
+}
+div.f-0 span.leadin {
+  padding-top: 0pt
+}
+p.f-0-FirstPara {
+  font-size: 100%;
+  margin-left: 35pt;
+  margin-top: 0pt;
+  margin-right: 0pt;
+  margin-bottom: 0pt;
+  padding-left: 0pt;
+  padding-top: 0pt;
+  padding-right: 0pt;
+  padding-bottom: 0pt;
+  text-indent: 2pt
+}
+p.f-1 {
+  font-size: 100%;
+  margin-left: 35pt;
+  margin-top: 0pt;
+  margin-right: 0pt;
+  margin-bottom: 0pt;
+  padding-left: 0pt;
+  padding-top: 0pt;
+  padding-right: 0pt;
+  padding-bottom: 0pt
+}
+div.f-1 {
+  font-size: 100%
+}
+div.f-1 span.leadin {
+  padding-top: 0pt
+}
+p.f-1-FirstPara {
+  font-size: 100%;
+  margin-left: 35pt;
+  margin-top: 0pt;
+  margin-right: 0pt;
+  margin-bottom: 0pt;
+  padding-left: 0pt;
+  padding-top: 0pt;
+  padding-right: 0pt;
+  padding-bottom: 0pt;
+  text-indent: 2pt
+}
+p.f-2 {
+  font-size: 100%;
+  margin-left: 35pt;
+  margin-top: 0pt;
+  margin-right: 0pt;
+  margin-bottom: 0pt;
+  padding-left: 0pt;
+  padding-top: 0pt;
+  padding-right: 0pt;
+  padding-bottom: 0pt
+}
+div.f-2 {
+  font-size: 100%
+}
+div.f-2 span.leadin {
+  padding-top: 0pt
+}
+p.f-2-FirstPara {
+  font-size: 100%;
+  margin-left: 35pt;
+  margin-top: 0pt;
+  margin-right: 0pt;
+  margin-bottom: 0pt;
+  padding-left: 0pt;
+  padding-top: 0pt;
+  padding-right: 0pt;
+  padding-bottom: 0pt;
+  text-indent: 2pt
+}
+p.f-7 {
+  font-size: 100%;
+  margin-left: 35pt;
+  margin-top: 0pt;
+  margin-right: 0pt;
+  margin-bottom: 0pt;
+  padding-left: 0pt;
+  padding-top: 0pt;
+  padding-right: 0pt;
+  padding-bottom: 0pt
+}
+div.f-7 {
+  font-size: 100%
+}
+div.f-7 span.leadin {
+  padding-top: 0pt
+}
+p.f-7-FirstPara {
+  font-size: 100%;
+  margin-left: 35pt;
+  margin-top: 0pt;
+  margin-right: 0pt;
+  margin-bottom: 0pt;
+  padding-left: 0pt;
+  padding-top: 0pt;
+  padding-right: 0pt;
+  padding-bottom: 0pt;
+  text-indent: 2pt
+}
+p.abstract {
+  font-size: 100%;
+  margin-left: 35pt;
+  margin-top: 0pt;
+  margin-right: 0pt;
+  margin-bottom: 0pt;
+  padding-left: 0pt;
+  padding-top: 0pt;
+  padding-right: 0pt;
+  padding-bottom: 0pt
+}
+div.abstract {
+  font-size: 100%
+}
+div.abstract span.leadin {
+  padding-top: 0pt
+}
+p.abstract-FirstPara {
+  font-size: 100%;
+  margin-left: 35pt;
+  margin-top: 0pt;
+  margin-right: 0pt;
+  margin-bottom: 0pt;
+  padding-left: 0pt;
+  padding-top: 0pt;
+  padding-right: 0pt;
+  padding-bottom: 0pt;
+  text-indent: 2pt
+}
+p.f-11 {
+  font-size: 100%;
+  margin-left: 35pt;
+  margin-top: 0pt;
+  margin-right: 0pt;
+  margin-bottom: 0pt;
+  padding-left: 0pt;
+  padding-top: 0pt;
+  padding-right: 0pt;
+  padding-bottom: 0pt
+}
+div.f-11 {
+  font-size: 100%
+}
+div.f-11 span.leadin {
+  padding-top: 0pt
+}
+p.f-11-FirstPara {
+  font-size: 100%;
+  margin-left: 35pt;
+  margin-top: 0pt;
+  margin-right: 0pt;
+  margin-bottom: 0pt;
+  padding-left: 0pt;
+  padding-top: 0pt;
+  padding-right: 0pt;
+  padding-bottom: 0pt;
+  text-indent: 2pt
+}
+p.f-12 {
+  font-size: 100%;
+  margin-left: 35pt;
+  margin-top: 0pt;
+  margin-right: 0pt;
+  margin-bottom: 0pt;
+  padding-left: 0pt;
+  padding-top: 0pt;
+  padding-right: 0pt;
+  padding-bottom: 0pt
+}
+div.f-12 {
+  font-size: 100%
+}
+div.f-12 span.leadin {
+  padding-top: 0pt
+}
+p.f-12-FirstPara {
+  font-size: 100%;
+  margin-left: 35pt;
+  margin-top: 0pt;
+  margin-right: 0pt;
+  margin-bottom: 0pt;
+  padding-left: 0pt;
+  padding-top: 0pt;
+  padding-right: 0pt;
+  padding-bottom: 0pt;
+  text-indent: 2pt
+}
+p.f-13 {
+  font-size: 100%;
+  margin-left: 35pt;
+  margin-top: 0pt;
+  margin-right: 0pt;
+  margin-bottom: 0pt;
+  padding-left: 0pt;
+  padding-top: 0pt;
+  padding-right: 0pt;
+  padding-bottom: 0pt
+}
+div.f-13 {
+  font-size: 100%
+}
+div.f-13 span.leadin {
+  padding-top: 0pt
+}
+p.f-13-FirstPara {
+  font-size: 100%;
+  margin-left: 35pt;
+  margin-top: 0pt;
+  margin-right: 0pt;
+  margin-bottom: 0pt;
+  padding-left: 0pt;
+  padding-top: 0pt;
+  padding-right: 0pt;
+  padding-bottom: 0pt;
+  text-indent: 2pt
+}
+p.f-14 {
+  font-size: 100%;
+  margin-left: 35pt;
+  margin-top: 0pt;
+  margin-right: 0pt;
+  margin-bottom: 0pt;
+  padding-left: 0pt;
+  padding-top: 0pt;
+  padding-right: 0pt;
+  padding-bottom: 0pt
+}
+div.f-14 {
+  font-size: 100%
+}
+div.f-14 span.leadin {
+  padding-top: 0pt
+}
+p.f-14-FirstPara {
+  font-size: 100%;
+  margin-left: 35pt;
+  margin-top: 0pt;
+  margin-right: 0pt;
+  margin-bottom: 0pt;
+  padding-left: 0pt;
+  padding-top: 0pt;
+  padding-right: 0pt;
+  padding-bottom: 0pt;
+  text-indent: 2pt
+}
+span.KeyName {
+  font-style: normal;
+  font-weight: 700;
+  color: rgb(151,134,40)
+}
+span.KeyName span.inlineMath {
+  color: rgb(0,0,0)
+}
+span.MenuDialog {
+  font-style: normal;
+  font-weight: 700;
+  color: rgb(0,0,0)
+}
+span.MenuDialog span.inlineMath {
+  color: rgb(0,0,0)
+}
+span.NoteLeadin {
+  font-style: normal;
+  font-weight: 700;
+  color: rgb(151,134,40)
+}
+span.NoteLeadin span.inlineMath {
+  color: rgb(0,0,0)
+}
+span.BookName {
+  font-style: italic;
+  font-weight: 400;
+  color: rgb(0,0,0)
+}
+span.BookName span.inlineMath {
+  color: rgb(0,0,0)
+}
+span.UserInput {
+  font-weight: 700
+}
+span.QQQTablehead {
+  font-size: 90%;
+  font-style: normal;
+  font-weight: 700;
+  color: rgb(0,0,0)
+}
+span.QQQTablehead A {
+  font-family: Arial;
+  font-size: 89%
+}
+span.huge2 span.huge2 {
+  font-size: 100%
+}
+span.huge2 span.large2 {
+  font-size: 73%
+}
+span.huge2 span.QQQTablehead {
+  font-size: 41%
+}
+span.huge2 span.footnotesize {
+  font-size: 36%
+}
+span.huge2 span.huge1 {
+  font-size: 91%
+}
+span.huge2 span.large1 {
+  font-size: 64%
+}
+span.huge2 span.scriptsize {
+  font-size: 41%
+}
+span.huge2 span.small {
+  font-size: 41%
+}
+span.huge2 span.tiny {
+  font-size: 27%
+}
+span.huge2 span.tt {
+  font-size: 41%
+}
+span.large2 span.huge2 {
+  font-size: 138%
+}
+span.large2 span.large2 {
+  font-size: 100%
+}
+span.large2 span.QQQTablehead {
+  font-size: 56%
+}
+span.large2 span.footnotesize {
+  font-size: 50%
+}
+span.large2 span.huge1 {
+  font-size: 125%
+}
+span.large2 span.large1 {
+  font-size: 88%
+}
+span.large2 span.scriptsize {
+  font-size: 56%
+}
+span.large2 span.small {
+  font-size: 56%
+}
+span.large2 span.tiny {
+  font-size: 38%
+}
+span.large2 span.tt {
+  font-size: 56%
+}
+span.QQQTablehead span.huge2 {
+  font-size: 244%
+}
+span.QQQTablehead span.large2 {
+  font-size: 178%
+}
+span.QQQTablehead span.QQQTablehead {
+  font-size: 100%
+}
+span.QQQTablehead span.footnotesize {
+  font-size: 89%
+}
+span.QQQTablehead span.huge1 {
+  font-size: 222%
+}
+span.QQQTablehead span.large1 {
+  font-size: 156%
+}
+span.QQQTablehead span.scriptsize {
+  font-size: 100%
+}
+span.QQQTablehead span.small {
+  font-size: 100%
+}
+span.QQQTablehead span.tiny {
+  font-size: 67%
+}
+span.QQQTablehead span.tt {
+  font-size: 100%
+}
+div.acknowledgement div.acknowledgement {
+  font-size: 100%
+}
+span.footnotesize span.huge2 {
+  font-size: 275%
+}
+span.footnotesize span.large2 {
+  font-size: 200%
+}
+span.footnotesize span.QQQTablehead {
+  font-size: 113%
+}
+span.footnotesize span.footnotesize {
+  font-size: 100%
+}
+span.footnotesize span.huge1 {
+  font-size: 250%
+}
+span.footnotesize span.large1 {
+  font-size: 175%
+}
+span.footnotesize span.scriptsize {
+  font-size: 113%
+}
+span.footnotesize span.small {
+  font-size: 113%
+}
+span.footnotesize span.tiny {
+  font-size: 75%
+}
+span.footnotesize span.tt {
+  font-size: 113%
+}
+span.huge1 span.huge2 {
+  font-size: 110%
+}
+span.huge1 span.large2 {
+  font-size: 80%
+}
+span.huge1 span.QQQTablehead {
+  font-size: 45%
+}
+span.huge1 span.footnotesize {
+  font-size: 40%
+}
+span.huge1 span.huge1 {
+  font-size: 100%
+}
+span.huge1 span.large1 {
+  font-size: 70%
+}
+span.huge1 span.scriptsize {
+  font-size: 45%
+}
+span.huge1 span.small {
+  font-size: 45%
+}
+span.huge1 span.tiny {
+  font-size: 30%
+}
+span.huge1 span.tt {
+  font-size: 45%
+}
+span.large1 span.huge2 {
+  font-size: 157%
+}
+span.large1 span.large2 {
+  font-size: 114%
+}
+span.large1 span.QQQTablehead {
+  font-size: 64%
+}
+span.large1 span.footnotesize {
+  font-size: 57%
+}
+span.large1 span.huge1 {
+  font-size: 143%
+}
+span.large1 span.large1 {
+  font-size: 100%
+}
+span.large1 span.scriptsize {
+  font-size: 64%
+}
+span.large1 span.small {
+  font-size: 64%
+}
+span.large1 span.tiny {
+  font-size: 43%
+}
+span.large1 span.tt {
+  font-size: 64%
+}
+h4.paragraph span.huge2 {
+  font-size: 244%
+}
+h4.paragraph span.large2 {
+  font-size: 178%
+}
+h4.paragraph span.QQQTablehead {
+  font-size: 100%
+}
+h4.paragraph span.footnotesize {
+  font-size: 89%
+}
+h4.paragraph span.huge1 {
+  font-size: 222%
+}
+h4.paragraph span.large1 {
+  font-size: 156%
+}
+h4.paragraph span.scriptsize {
+  font-size: 100%
+}
+h4.paragraph span.small {
+  font-size: 100%
+}
+h4.paragraph span.tiny {
+  font-size: 67%
+}
+h4.paragraph span.tt {
+  font-size: 100%
+}
+h1.part span.huge2 {
+  font-size: 138%
+}
+h1.part span.large2 {
+  font-size: 100%
+}
+h1.part span.QQQTablehead {
+  font-size: 56%
+}
+h1.part span.footnotesize {
+  font-size: 50%
+}
+h1.part span.huge1 {
+  font-size: 125%
+}
+h1.part span.large1 {
+  font-size: 88%
+}
+h1.part span.scriptsize {
+  font-size: 56%
+}
+h1.part span.small {
+  font-size: 56%
+}
+h1.part span.tiny {
+  font-size: 38%
+}
+h1.part span.tt {
+  font-size: 56%
+}
+span.scriptsize span.huge2 {
+  font-size: 244%
+}
+span.scriptsize span.large2 {
+  font-size: 178%
+}
+span.scriptsize span.QQQTablehead {
+  font-size: 100%
+}
+span.scriptsize span.footnotesize {
+  font-size: 89%
+}
+span.scriptsize span.huge1 {
+  font-size: 222%
+}
+span.scriptsize span.large1 {
+  font-size: 156%
+}
+span.scriptsize span.scriptsize {
+  font-size: 100%
+}
+span.scriptsize span.small {
+  font-size: 100%
+}
+span.scriptsize span.tiny {
+  font-size: 67%
+}
+span.scriptsize span.tt {
+  font-size: 100%
+}
+h1.section span.huge2 {
+  font-size: 183%
+}
+h1.section span.large2 {
+  font-size: 133%
+}
+h1.section span.QQQTablehead {
+  font-size: 75%
+}
+h1.section span.footnotesize {
+  font-size: 67%
+}
+h1.section span.huge1 {
+  font-size: 167%
+}
+h1.section span.large1 {
+  font-size: 117%
+}
+h1.section span.scriptsize {
+  font-size: 75%
+}
+h1.section span.small {
+  font-size: 75%
+}
+h1.section span.tiny {
+  font-size: 50%
+}
+h1.section span.tt {
+  font-size: 75%
+}
+span.small span.huge2 {
+  font-size: 244%
+}
+span.small span.large2 {
+  font-size: 178%
+}
+span.small span.QQQTablehead {
+  font-size: 100%
+}
+span.small span.footnotesize {
+  font-size: 89%
+}
+span.small span.huge1 {
+  font-size: 222%
+}
+span.small span.large1 {
+  font-size: 156%
+}
+span.small span.scriptsize {
+  font-size: 100%
+}
+span.small span.small {
+  font-size: 100%
+}
+span.small span.tiny {
+  font-size: 67%
+}
+span.small span.tt {
+  font-size: 100%
+}
+h5.subparagraph span.huge2 {
+  font-size: 200%
+}
+h5.subparagraph span.large2 {
+  font-size: 145%
+}
+h5.subparagraph span.QQQTablehead {
+  font-size: 82%
+}
+h5.subparagraph span.footnotesize {
+  font-size: 73%
+}
+h5.subparagraph span.huge1 {
+  font-size: 182%
+}
+h5.subparagraph span.large1 {
+  font-size: 127%
+}
+h5.subparagraph span.scriptsize {
+  font-size: 82%
+}
+h5.subparagraph span.small {
+  font-size: 82%
+}
+h5.subparagraph span.tiny {
+  font-size: 55%
+}
+h5.subparagraph span.tt {
+  font-size: 82%
+}
+h2.subsection span.huge2 {
+  font-size: 200%
+}
+h2.subsection span.large2 {
+  font-size: 145%
+}
+h2.subsection span.QQQTablehead {
+  font-size: 82%
+}
+h2.subsection span.footnotesize {
+  font-size: 73%
+}
+h2.subsection span.huge1 {
+  font-size: 182%
+}
+h2.subsection span.large1 {
+  font-size: 127%
+}
+h2.subsection span.scriptsize {
+  font-size: 82%
+}
+h2.subsection span.small {
+  font-size: 82%
+}
+h2.subsection span.tiny {
+  font-size: 55%
+}
+h2.subsection span.tt {
+  font-size: 82%
+}
+span.tiny span.huge2 {
+  font-size: 367%
+}
+span.tiny span.large2 {
+  font-size: 267%
+}
+span.tiny span.QQQTablehead {
+  font-size: 150%
+}
+span.tiny span.footnotesize {
+  font-size: 133%
+}
+span.tiny span.huge1 {
+  font-size: 333%
+}
+span.tiny span.large1 {
+  font-size: 233%
+}
+span.tiny span.scriptsize {
+  font-size: 150%
+}
+span.tiny span.small {
+  font-size: 150%
+}
+span.tiny span.tiny {
+  font-size: 100%
+}
+span.tiny span.tt {
+  font-size: 150%
+}
+span.tt span.huge2 {
+  font-size: 244%
+}
+span.tt span.large2 {
+  font-size: 178%
+}
+span.tt span.QQQTablehead {
+  font-size: 100%
+}
+span.tt span.footnotesize {
+  font-size: 89%
+}
+span.tt span.huge1 {
+  font-size: 222%
+}
+span.tt span.large1 {
+  font-size: 156%
+}
+span.tt span.scriptsize {
+  font-size: 100%
+}
+span.tt span.small {
+  font-size: 100%
+}
+span.tt span.tiny {
+  font-size: 67%
+}
+span.tt span.tt {
+  font-size: 100%
+}

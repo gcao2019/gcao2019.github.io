@@ -1,0 +1,103 @@
+﻿   <div class="main" style="background-color:#000000; color:#C0C0C0;">
+   
+   &nbsp; <!-- add this non-breaking space to reduce the gap from toplink -->
+   
+   <h1 style="color:#FFD700;font-style:italic;text-align:center;">"A picture is worth a thousand words."</h1>
+
+   
+   <ul class="sq">
+   
+   	<li><h2> Dynamic micro-CT </h2></li>
+   
+   	<ul class="ds">
+   
+   	<li><h3> Fast-beating mouse heart </h3></li>
+   
+   <div class="img"><img src="MM/heart_video.gif" alt="heart video" title="heart movie" height="400" width="400" />
+   <div class="caption">Respiratory and cardiac gated micro-CT imaging of a beating mouse heart under the free-breathing setting.  Images were taken at 0ms, 25ms, and 55ms off the R peak from a single C57BL/6 mouse, and data were acquired using a dynamic micro-CT scanner based on a carbon nanotube field emission micro-focus x-ray source. </div></div>
+   
+   <div class="img"><img src="MM/DynamicHeart.jpg" alt="heart dynamics" title="Respiratory and cardiac gated imaging of a mouse heart" height="368" width="491" />
+   <div class="caption">Mouse heart during expansion and contraction.  The scanning parameters were 50kVp, 2mA, 15ms pulse width, and 400 views over 200° at a step angle of 0.5°. These images represent 76&micro;m sections taken at the same slice locations from the 3D volumes reconstructed at each time point. The voxel spacing in-plane is also 76&micro;m. The major anatomic structures of the cardiopulmonary vascular system are readily identified in the contrast-enhanced images. All images have the same display window and level.  The AO, LV, and RV are labeled for reference.</div></div>
+   
+   	
+   	<li><h3> Free-breathing mouse lung </h3></li>
+   <div class="img"><img src="gated.jpg" alt="Gated Images" title="Respiratory-gated imaging of a free-breathing mouse lung" height="270" width="660" />
+   <div class="caption">Respiratory-gated micro-CT of free-breathing mice - the very first dynamic CT images from carbon nanotube micro-CT in 2007. The first two columns were gated while the last column was not gated. </div></div>
+   
+   <div class="img"><img src="MM/DynamicLung.jpg" alt="lung dynamics" title="Respiratory gated imaging of a mouse lung" height="488" width="424" />
+   <div class="caption"> Surface renderings of a mouse lung and trachea in inspiration (a) and expiration (b), and reformatted coronal images of the mouse lung during peak-inspiration (c) and full-expiration (d).  Changes in the shape and dimensions of the lungs can be easily appreciated. </div></div>
+   
+   </ul>
+   	
+   	
+   <li><h2> Mouse models of human disease </h2></li>
+   
+   <ul class="ds">
+   <li><h3> Heart disease </h3></li>
+   
+   <div class="img"><img src="MM/HeartDisease.jpg" alt="Heart Disease" title="CNT micro-CT imaging of a mouse model of myocardial infarction" height="376" width="424" />
+   <div class="caption"> Axial cardiac micro-CT image of the heart of a cardiac ischemia/reperfusion model showing hyper-enhancement (arrow) of the lateral left ventricle wall, representing an area of myocardial infarction.  Notice the excellent correlation to histology image at bottom. </div></div>
+   
+   
+   <li><h3> Lung tumor </h3></li>
+   
+   <div class="img"><img src="MM/LungTumor.jpg" alt="Lung Tumor Disease" title="CNT micro-CT imaging of a mouse model of lung tumor" height="300" width="814" />
+   <div class="caption"> Axial respiratory gated micro-CT image of the lower thorax of mouse model of multifocual lung tumors.  The left image was taken at the 1st week showing a largest lesion of 1.1mm at the right lung base (left of the image).  The right image was taken at the 3rd week from the same mouse showing the lesion has grown to 1.5mm. </div></div>
+   
+   
+   </ul>
+   
+   	<li><h2> High-resolution micro-CT </h2></li>
+   
+   	<table border="0">
+   		<tr>
+   			<td>
+   			<div class="img"><a target="_self" href="lungaxial.jpg"><img src="lungaxial.jpg" alt="Axial Slice" title="Axial slice of inflated mouse lung" height="90" width="110" /></a>
+   			<div class="desc">Inflated lung - axial</div>
+   			</div>
+   		</td>
+   
+   			<td>
+   <div class="img"><a target="_self" href="lungcoronal.jpg"><img src="lungcoronal.jpg" alt="Coronal Slice" title="Coronal slice of inflated mouse lung" height="90" width="110" /></a><div class="desc">Inflated lung - coronal</div>
+   </div>
+   			</td>
+   			<td>
+   				<div class="img"><a target="_self" href="christmastree.jpg"><img src="christmastree.jpg" alt="Christmas Tree" title="A Christmas Tree from micro-CT" height="90" width="110" /></a><div class="desc">Christmas tree</div>
+   </div>
+   
+   			</td>
+   			<td>
+   				<div class="img"><a target="_self" href="ContrastMouse.jpg"><img src="ContrastMouse.jpg" alt="Mouse veins" title="Mouse veins" height="90" width="110" /></a><div class="desc">Mouse veins</div>
+   </div>
+   
+   
+   			</td>
+   		</tr>
+   	</table>
+   
+   	<li><h2> Video </h2></li>
+   
+   	<table>
+   		<tr>
+   
+   			<td>
+   <div class="img"><a target="_self" href="MM/mousepup.mpg"><img src="mousepubmovie.jpg" alt="Mouse pub movie" title="micro-CT of a 10-day old mouse pub" height="120" width="160" /></a><div class="desc">10-day old mouse pup</div>
+   </div>
+   			</td>
+   			<td>
+   <div class="img"><a target="_self" href="MM/dan1.avi"><img src="contrastmousemovie.jpg" alt="Contrast mouse movie" title="micro-CT of a contrast agents filled mouse" height="120" width="160" /></a><div class="desc">Contrast agent filled mouse</div>
+   </div>
+   			</td>
+   			<td>
+   <div class="img"><a target="_self" href="MM/Balloon2DMovie.avi"><img src="MM/Balloon2DMovie.jpg" alt="Balloon movie" title="Respiratory balloon" height="120" width="160" /></a><div class="desc">Respiratory balloon</div>
+   </div>
+   			</td>
+   		</tr>
+   
+   	</table>
+   
+   	<span class="note">Note: Proper media players need to be installed on your computer to view the videos.</span>
+   
+   </ul>
+   
+   </div><!--end bracket for "main"-->

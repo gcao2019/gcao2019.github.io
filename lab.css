@@ -1,0 +1,265 @@
+﻿body {background-color:#FFFFFF; color:#000000;} /*set the background and foreground colors of the whole page */
+
+div.container /* container for the whole web page */
+{
+width:1024px; /* define the full width of the webpage, Total element width = width + left padding + right padding + left border + right border + left margin + right margin */
+padding:0px;
+border:0px;
+margin-left: auto;
+margin-right: auto;
+position:relative;
+font-family : Arial, sans-serif;
+}
+
+div.header /* header of the web page */
+{
+height:120px; /* the height of the Lablogo*/
+width:100%;
+border:0px;
+margin:0px;
+padding:0px;
+}
+
+div#header1 /*textbox within the header */
+{
+
+position:absolute;
+left:10px;
+top:5px;
+}
+
+div#header2 /* image within the header */
+{ 
+
+position:absolute;
+right:0px;
+top:30px;
+}
+
+div.toplink
+{
+width:1014px; 	/*1014+5 left padding +5 right padding =1024*/
+white-space:nowrap;
+font-size : 18px;
+background-color:CornflowerBlue;
+/* text color specified in the "a.toplink" section at the bottom */ 
+border-style:solid;
+border-width:0px 0px 0px 0px;
+margin:0px;
+padding:5px 5px 5px 5px;/*top, right, bottom, left*/
+}
+
+div.main /* the main display section of the whole container*/
+{
+width:auto;
+border:0px solid red;
+margin:0px;
+padding:0px 0px 0px 0px;/*top, right, bottom, left*/
+font-size : 16px;
+}
+
+/* footer of the whole page */
+div.footer{
+width:auto;
+padding:0px;
+border:0px;
+margin:0px;
+color:#dddddd; 
+font-size : 11px;
+background-color:#808080;
+text-align:center;
+}
+
+#index /*style for index web page */
+{
+	width:100%;
+	border-collapse:separate;
+}
+#index td
+{
+border:0px solid #98bf21;
+padding:0px 31px 3px 0px; /*top, right, bottom, left*/
+text-align:justify;
+word-wrap: break-word;
+vertical-align:top;
+}
+
+#index td.slides
+{
+max-width:400px;
+width:400px;
+/*vertical-align:middle;*/
+/*padding-right:10px;*/
+}
+
+#index td.news
+{
+width:300px;
+padding-right:0px;
+}
+
+
+div.img
+{
+  margin: 0px;
+  border: 0px solid #0000ff;
+  height: auto;
+  width: auto;
+  text-align: center;
+  clear:right;
+}	
+
+div.img img
+{
+  /*display: inline;*/
+  margin: 0px;
+  border: 10px solid #ffffff;
+}
+
+div.img a:hover img {border: 10px solid #880000;}
+
+div.caption
+{
+  text-align: justify;
+  font-weight: normal;
+  width: auto;
+  margin: 0.5em 5em;/* top and bottom, then left and right margin */
+}
+
+div.desc
+{
+  text-align: justify;
+  font-weight: normal;
+  width: auto;
+  margin: 0px;
+}
+
+/* hyperlink style in general */
+a:link {
+	color: #003399;
+	text-decoration: none;
+
+}
+a:visited {
+	/*color: #5f5f5f;*/
+	color: #003399;
+	text-decoration: none;
+
+}
+
+a:hover {
+	color: #990000;
+	text-decoration: none;
+	font-weight: bold;
+}
+
+a:active {
+	color: #990000;
+	text-decoration: none;
+}
+
+/* hyperlink style within the toplink section, note the sequence */
+a.toplink:link, a.toplink:visited 
+{
+	color: black;
+	text-decoration: none;
+	font-weight: bold;
+}
+
+a.toplink:hover {
+	color: #990000;
+	text-decoration: none;
+	font-weight: bold;
+	/*font-size: 150%*/
+	/*background-color:#000000;*/
+}
+
+a.toplink:active {
+	/*color: #990000;*/
+	text-decoration: none;
+	font-weight: bold;
+}
+
+
+/* hyperlink style within the footer section, note the sequence! */
+
+a.footerlink:link, a.footerlink:visited
+{	color:white;
+	text-decoration: underline;
+	font-size : 120%;
+}
+
+a.footerlink:hover 
+{
+/*	color:#990000;*/
+	text-decoration: underline;
+	font-weight: bold;
+	font-size: 150%;
+/*	background-color:#000000;*/
+}
+
+a.footerlink:active
+{	color:white;
+	text-decoration: underline;
+}
+
+/* customized other common styles */
+h1.header1
+{
+float:left;
+padding:0.1em;
+margin:0.2em;
+}
+
+p {font-size : 100%; font-weight:normal; text-indent: 2em; text-align:justify;} /*font-family: "Times New Roman", Times, serif, sans-serif; */
+p.pub {font-size : 100%; font-weight:normal; text-indent: 0em; text-align:justify;}
+h1 { font-size: 160%;  line-height: 160%; font-weight: bold;}
+h2 { font-size: 130%;  line-height: 120%; font-weight: bold;} /*font-variant: small-caps;*/
+h3 { font-size: 110%;  line-height: 120%; font-weight: bold;}
+li#space{ padding-bottom:1em; }
+ul.u {list-style-type:none;}
+ul.sq {list-style-type:square;}
+ul.ds{list-style-type:disc;}
+/*Specify an image as the list-item marker in a list:  list-style-image:url('sqpurple.gif');*/
+
+
+
+#people /* table style for people */
+{
+	width:100%;
+	border-collapse:collapse;
+}
+#people td
+{
+border:0px solid #98bf21;
+padding:12px 32px;
+color:#000000;
+/*background-color:#EAF2D3;*/
+}
+
+#people td.photo
+{
+max-width: 160px;
+width:120px;
+}
+
+#people td.contact
+{
+max-width: 300px;
+width:300px;
+}
+
+div.hcentered {
+    display: block;
+    margin-left: auto;
+    margin-right: auto }
+
+.note {color:#808080; font-size : 85%;font-style:italic;text-align:center;}
+
+.tab_style {font-weight: bold; font-size: 100%;}
+.myname {color:#8E0000; font-weight: bold;}
+.peoplename {color:#8E0000; font-weight: bold; font-size:120%;}
+.doublespace {	line-height: 200%; }
+.center{margin-left:auto;margin-right:auto;text-align:justify;} /* need to specify width such as: width:600px;*/
+.zhs 	{font-family: "宋体", SimSun, SimSum-18030, SimHei, serif;} /* style for simplified Chinese */
+.firstletter {color:#8e0000; font-size: 150%;}

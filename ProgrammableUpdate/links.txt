@@ -1,0 +1,71 @@
+<div class="main">
+	<h2>Research</h2>
+<dl>
+	<dt>
+	<h3 style="text-indent:2em"> - Search Engines</h3>
+	</dt>	
+<dd style="text-indent:2em">	<a href="https://www.google.com/">- Google</a></dd>
+	
+<dd style="text-indent:2em">	<a href="http://scholar.google.com/">- Google Scholar</a></dd>
+	
+<dd style="text-indent:2em">	<a href="http://patents.google.com/">- Google Patents</a></dd>
+	
+<dd style="text-indent:2em">	<a href="http://apps.webofknowledge.com/">- Web of Knowledge</a></dd>
+
+	<dt>
+	<h3 style="text-indent:2em"> - Libraries</h3>
+	</dt>
+	
+<dd style="text-indent:2em">	<a href="http://www.lib.unc.edu/">- UNC Library</a></dd>
+	
+<dd style="text-indent:2em">	<a href="http://www.lib.vt.edu/">- VT Library</a></dd>
+
+	<dt>	
+	<h3 style="text-indent:2em"> - Journals</h3>
+	</dt>
+
+<dd style="text-indent:2em">	<a href="http://www.nature.com/nature/index.html">- Nature</a></dd>
+	
+<dd style="text-indent:2em">	<a href="http://vb3lk7eb4t.search.serialssolutions.com/?V=1.0&N=100&L=VB3LK7EB4T&S=AC_T_B&C=Science+%28New+York%2C+N.Y.%29">- Science</a></dd>
+	
+<dd style="text-indent:2em">	<a href="http://www.pnas.org/">- PNAS</a></dd>
+	
+<dd style="text-indent:2em">	<a href="http://online.medphys.org.libproxy.lib.unc.edu/">- Medical Physics</a></dd>
+	
+<dd style="text-indent:2em">	<a href="http://www.iop.org/EJ/pmb">- Phys Med Bio</a></dd>
+	
+<dd style="text-indent:2em">	<a href="http://radiology.rsna.org/">- Radiology</a></dd>	
+		
+	<dt>
+	<h3 style="text-indent:2em"> - Trade Publications</h3>
+	</dt>
+
+<dd style="text-indent:2em"> 	<a href="http://medicalphysicsweb.org/cws/home">- Medical Physics Web</a></dd>
+
+<dd style="text-indent:2em"> 	<a href="http://www.physicstoday.org/">- Physics Today</a></dd>
+
+<dd style="text-indent:2em">	<a href="http://www.technologyreview.com/">- Technology Review</a></dd>
+	
+<dd style="text-indent:2em">	<a href="http://www.scientificamerican.com/">- Scientific American</a></dd>
+	
+<dd style="text-indent:2em">	<a href="http://www.economist.com/science-technology">- The Economist</a></dd>
+
+	<dt>
+	<h3 style="text-indent:2em"> - X-ray References</h3>
+	</dt>	
+<dd style="text-indent:2em"> 	<a href="http://physics.nist.gov/PhysRefData/Xcom/html/xcom1.html">- NIST </a></dd>
+
+<dd style="text-indent:2em"> 	<a href="http://henke.lbl.gov/optical_constants/">- Lawrence Berkeley National Laboratory </a></dd>
+
+<dd style="text-indent:2em"> 	<a href="http://www.csrri.iit.edu/periodic-table.html">- Periodic Table of X-ray Properties</a></dd>
+
+</dl>
+	<h2>Misc.</h2>
+<dl>
+	<dt style="text-indent:2em">
+
+<dd style="text-indent:2em">	<a href="PhysicsConstants/physicalconstants.htm">- Physical Constants</a></dd>
+<dd style="text-indent:2em">	<a href="http://www.unit-conversion.info/">- Unit Conversion</a></dd>
+	</dt>
+</dl>
+</div><!--end bracket for "main"-->

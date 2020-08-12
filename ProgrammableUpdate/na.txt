@@ -1,0 +1,11 @@
+<div class="main">
+	<b>
+	Ooops!
+	</b>
+
+	<div class="center">
+		<img src="http://www.cartoonstock.com/lowres/vsh0162l.jpg" alt="Ooops!" width="280" >
+	</div>
+
+
+</div><!--end bracket for "main"-->

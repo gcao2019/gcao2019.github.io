@@ -1,0 +1,61 @@
+<!--This is a comment. Comments are not displayed in browser-->
+<!--the <!DOCTYPE> tag declare the version of HTML the web page is written. Always add the <!DOCTYPE> to your HTML documents-->
+
+
+<!DOCTYPE html> <!-- This declares the page is written in HTML % version, which is the current version in 2016-->
+<html>
+<head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="Guohua Cao, Medical Imaging, Computed Tomography, Carbon Nanotube X-ray Source, Deep Learning, Artificial Intelligence, Image Reconstruction, X-ray Systems Lab, Virginia Tech, ImagingX" />
+<meta name="description" content="Guohua Cao, PhD, Virginia Tech, ImagingX" />
+<title>Guohua Cao, PhD</title>
+<link rel="stylesheet" type="text/css" href="lab.css" />
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-19893188-2']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+</head>
+
+<body>
+
+<div class="container">
+
+<div class="header">
+
+	<div id="header1"><a  href="index.html"><img src="LabLogo.gif" alt="X-Ray Systems Lab" height="110" style="border:0px" /></a></div>
+
+	<div id="header2">
+		<a  href="http://www.sbes.vt.edu/"><img src="SBES.jpg" alt="SBES" height="80" style="border:0px" /></a>
+	</div>
+
+
+		
+
+</div> <!--end bracket for "headerer"-->
+
+<div class="toplink">
+	&nbsp;&nbsp;
+	<a  class="toplink" href="index.html">Home</a>&nbsp;&nbsp;&nbsp;&nbsp;
+	<a  class="toplink" href="people.html">People</a>&nbsp;&nbsp;&nbsp;&nbsp;
+	<a  class="toplink" href="research.html">Research</a>&nbsp;&nbsp;&nbsp;&nbsp;
+	<a  class="toplink" href="publications.html">Publications</a>&nbsp;&nbsp;&nbsp;&nbsp;
+	<a  class="toplink" href="gallery.html">Gallery</a>&nbsp;&nbsp;&nbsp;&nbsp;
+	<a  class="toplink" href="teaching.html">Teaching</a>&nbsp;&nbsp;&nbsp;&nbsp;
+	<a  class="toplink" href="news.html">News </a><img src="new.gif" alt="new" />&nbsp;&nbsp;&nbsp;&nbsp;
+	<a  class="toplink" href="intranet.html">Intranet</a>&nbsp;&nbsp;&nbsp;&nbsp;
+	<a  class="toplink" href="links.html">Links</a>&nbsp;&nbsp;&nbsp;&nbsp;
+	<a  class="toplink" href="positions.html">Positions</a>&nbsp;&nbsp;&nbsp;&nbsp;
+</div> <!--end bracket for "toplink"-->
+
+

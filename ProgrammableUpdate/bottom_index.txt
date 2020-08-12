@@ -1,0 +1,19 @@
+
+
+<div class="footer">
+
+<script type="text/javascript" language="Javascript">
+
+var lastmod=new Date(document.lastModified);
+<!-- var curr_date = lastmod.getDate(); -->
+<!-- var curr_month = lastmod.getMonth(); -->
+var curr_year = lastmod.getFullYear();
+
+document.write("Copyright &copy; "+curr_year+" Guohua Cao. All Rights Reserved.");
+
+</script>
+</div><!--end bracket for "footer"-->
+
+</div><!--end bracket for "container"-->
+
+</body></html>

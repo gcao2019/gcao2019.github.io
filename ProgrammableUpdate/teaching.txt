@@ -1,0 +1,29 @@
+<div class="main">
+
+	<h2>Philosophy of Teaching Statement</h1>
+	<p> 
+Professor teaches! The nature of our profession comprises not only research but also teaching. Teaching has its own particular requirements that must be satisfied. And it demands different skill sets. For instance, teaching could be carried out solely relying on funding through the university. Research, in contrast, usually requires substantial external funding. Nevertheless, at universities the separation of teaching and research would be fundamentally flawed. Teaching doesn't stop after a professor leaves the classroom but continues in the laboratory. Teaching is present in the research process when a professor guides students. And teaching is in action when a professor shares knowledge with peers. 
+	</p>
+	<p>
+One major lesson I have learned from the past teaching is that not everyone shares my passion in rigorous, sometimes meticulous, approach in pursuing the underlying principles of practical problems. So I have come to realize that I should always emphasize the understanding of concepts with an intuitive basis in physical reality. Speaking more broadly, students take classes and go for graduate schools for a variety of reasons, and many of students are not continuing in the hard sciences. To teach more effectively, we should be sensitive and understanding to this broad spectrum of motivations, and do our best to reach our common goal - the search for scientific truth and the push for intellectual innovation. This is especially true in a culturally diverse environment and a multidisciplinary field.  We should be more aware of our assumptions made on students when choosing a specific way to teach in a classroom, and choose different approaches to reach students who have a variety of experiences and backgrounds..
+	</p>
+	<p>
+I found learning what motivate the students and aligning their project to be consistent with their future goals is crucial to their success.  With this main direction in mind, it is important to make the necessary resources accessible to students and allow them to solve problems themselves in a relatively free environment while inspiring them along the way, and challenging them to improve on their weaknesses no matter how much resistance and reluctance you may receive at first. Sensitivity and understanding are certainly among the most important traits an advisor must have. Equally important for a professor is to excel in his or her research in order to foster an academic environment in which students can grow. 
+	</p>
+	<p>
+	Based on my past teaching/mentoring experiences first as a graduate student then as a scholar, I believe teaching and research are mutually beneficial. Teaching stimulates research - research influences teaching. Teaching and research together form an integrated academic environment. For a professor it is important to create for students an environment that fosters both research and learning. 
+	</p>
+
+	<h2>Courses Taught</h2>
+	<ul>
+	<li>BMES 3134 - "Introduction to Biomedical Imaging", Virginia Tech</li>
+	<li>BMES 6514 - "Medical Imaging II", Virginia Tech</li>
+	<li>BMES 5984 - "Radiation in Imaging and Therapy", Virginia Tech</li>
+	<li>TBMH 5024 - "Fundamentals of Cancer", Virginia Tech</li>
+	<li>BMES 5054 - "Quantitative Cell Physiology", School of Biomedical Engineering and Sciences, Virginia Tech - Wake Forest University</li>
+	<li>MSTC 735 - "Techniques in Materials Characterization", Curriculum in Applied and Materials Sciences, University of North Carolina at Chapel Hill</li>
+	<li>CH 116 - "Physical Chemistry Laboratory", Department of Chemistry, Brown University</li>
+	</ul>
+		
+
+</div><!--end bracket for "main"-->
