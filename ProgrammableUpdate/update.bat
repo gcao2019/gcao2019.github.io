@@ -1,24 +1,25 @@
+@echo off
 REM	*INSTRUCTION FOR UPDATE*
 REM	1. Update the individual pages
-REM	2. Update the date in the bottom_notindex.txt
+REM	2. Update the date in the bottom_notindex.html
 REM	3*. Update news section at the index page if needed
 REM	4. Run this bat file, change the desfolder if necessary
 
+@echo on
 
 set destfolder=..
 
-copy /a top.txt + people.txt + bottom_notindex.txt %destfolder%\people.html /b
-copy /a top.txt + positions.txt + bottom_notindex.txt %destfolder%\positions.html /b
-copy /a top.txt + gallery.txt + bottom_notindex.txt %destfolder%\gallery.html /b
-copy /a top.txt + research.txt + bottom_notindex.txt %destfolder%\research.html /b
-copy /a top.txt + publications.txt + bottom_notindex.txt %destfolder%\publications.html /b
-copy /a top.txt + links.txt + bottom_notindex.txt %destfolder%\links.html /b
-copy /a top.txt + teaching.txt + bottom_notindex.txt %destfolder%\teaching.html /b
-copy /a top.txt + news.txt + bottom_notindex.txt %destfolder%\news.html /b
-copy /a top.txt + intranet.txt + bottom_notindex.txt %destfolder%\intranet.html /b
-copy /a top.txt + na.txt + bottom_index.txt %destfolder%\na.html /b
-copy /a top.txt + CaoCV.txt + bottom_index.txt %destfolder%\CaoCV.html /b
-
-copy /a top.txt + index.txt + bottom_index.txt %destfolder%\index.html /b
+copy /a top.html + people.html + bottom_notindex.html %destfolder%\people.html /b
+copy /a top.html + positions.html + bottom_notindex.html %destfolder%\positions.html /b
+copy /a top.html + gallery.html + bottom_notindex.html %destfolder%\gallery.html /b
+copy /a top.html + research.html + bottom_notindex.html %destfolder%\research.html /b
+copy /a top.html + publications.html + bottom_notindex.html %destfolder%\publications.html /b
+copy /a top.html + links.html + bottom_notindex.html %destfolder%\links.html /b
+copy /a top.html + teaching.html + bottom_notindex.html %destfolder%\teaching.html /b
+copy /a top.html + news.html + bottom_notindex.html %destfolder%\news.html /b
+copy /a top.html + intranet.html + bottom_notindex.html %destfolder%\intranet.html /b
+copy /a top.html + na.html + bottom_index.html %destfolder%\na.html /b
+copy /a top.html + CaoCV.html + bottom_index.html %destfolder%\CaoCV.html /b
+copy /a top.html + index.html + bottom_index.html %destfolder%\index.html /b
 
 set destfolder=
