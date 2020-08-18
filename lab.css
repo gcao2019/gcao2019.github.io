@@ -130,6 +130,7 @@ div.desc
 {
   text-align: justify;
   font-weight: normal;
+  font-size: 0.875em;
   width: auto;
   margin: 0px;
 }
@@ -212,7 +213,7 @@ margin:0.2em;
 }
 
 p {font-size : 100%; font-weight:normal; text-indent: 2em; text-align:justify;} /*font-family: "Times New Roman", Times, serif, sans-serif; */
-p.pub {font-size : 100%; font-weight:normal; text-indent: 0em; text-align:justify;}
+p.pub {font-size : 85%; font-weight:normal; text-indent: 0em; text-align:justify;}
 h1 { font-size: 160%;  line-height: 160%; font-weight: bold;}
 h2 { font-size: 130%;  line-height: 120%; font-weight: bold;} /*font-variant: small-caps;*/
 h3 { font-size: 110%;  line-height: 120%; font-weight: bold;}

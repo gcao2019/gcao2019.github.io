@@ -19,7 +19,6 @@ copy /a top.html + teaching.html + bottom_notindex.html %destfolder%\teaching.ht
 copy /a top.html + news.html + bottom_notindex.html %destfolder%\news.html /b
 copy /a top.html + intranet.html + bottom_notindex.html %destfolder%\intranet.html /b
 copy /a top.html + na.html + bottom_index.html %destfolder%\na.html /b
-copy /a top.html + CaoCV.html + bottom_index.html %destfolder%\CaoCV.html /b
 copy /a top.html + index.html + bottom_index.html %destfolder%\index.html /b
 
 set destfolder=
